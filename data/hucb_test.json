@@ -1,0 +1,1252 @@
+﻿[
+  {
+    "id": "0",
+    "premise": "A nyuszika megy az erdőben, előugrik a farkas és megerőszakolja nyuszikát. Utána nyuszika megkérdezi -Te farkas, ugye van olyan papírod ami bizonyítja hogy nem vagy AIDS-es?",
+    "hypothesis": "A nyuszika szerint a farkas nem AIDS-es."
+  },
+  {
+    "id": "1",
+    "premise": "Ott pakolják ki a kéglit az orra elött, erre azt mindja hogy most nem ér ra, mer más ügybe van itt. Mondom neki talán beszólhatna rádión. Persze nem szólhat, mert nem nyert bizonyítást hogy bűncselekmény folyik (mer ugye ő b. .ik megnézni a köcsög).",
+    "hypothesis": "A beszélő szerint bűncselekmény folyik."
+  },
+  {
+    "id": "2",
+    "premise": "Viktor: - Sajnálatos a dologban még az is, hogy a pénzügyi bizottság vezetője aki ezt az egészet szorgalmaza és nagyon a vevőnek az érdekeit tartotta inkább szem előtt, úgy néz ki hogy érintett is bizonyos okokból a dologban. Krisztián: - Ezt tudja valamivel bizonyítani? Viktor: - Hát ezt azzal tudnám bizonyítani hogy az önkormányzat a vevőnek az igényei szerint fogja megváltoztatni a városrendezési tervét.",
+    "hypothesis": "Viktor szerint az önkormányzat a vevőnek az igényei szerint fogja megváltoztatni a városrendezési tervét."
+  },
+  {
+    "id": "3",
+    "premise": "DR.Budai József gyerekgyógyász intektológus.: - Abszolút indikáció kérem influenza elleni védőoltást feltétlenül tessék beadatni. Igen. DR.Budai József gyerekgyógyász intektológus.: - Nem tudom, hogy tüdőgyulladás elleni oltással hogy áll, nem emlékszem hogy mondta volna.",
+    "hypothesis": "DR.Budai József szerint a beszélgetőpartner elmondta, hogy áll a tüdőgyulladás elleni oltással."
+  },
+  {
+    "id": "4",
+    "premise": "Amikor arról beszélünk hogy három millió létminimum alatt élő van, ennek bizony az egynegyede az gyermek. És azt sem lehet elfogadni hogy most már 1,1 millió él pária társadalom szintjén.",
+    "hypothesis": "A beszélő szerint most már 1,1 millió ember él a pária társadalom szintjén."
+  },
+  {
+    "id": "5",
+    "premise": "B. Király Györgyi: - Ha stúdióban ülőknek nincs az elhangzottakhoz hozzáfűznivalója. Aári Tamás Lajos: - Hallottunk nyomdászt, tankönyvkiadót ötlettekkel, elhangzottak jó ötletek, nem tudom, hogy jogszabályba lehet-e írni, de ha elfogadjuk hogy a gyerekeink egészsége fontos ügy, akkor érdemes lenne megkérdezni a gyerekeket, interneten emailen keresztül hasonló programokban, olyan jó ölteteket szoktak mondni, hogy döbbenetes mennyire rátapintanak a lényegre, és megvalósítható ötletet tudnak megfogalmazni, őket szoktuk elfelejteni, és a szülőknek is vannak ötletei, akiket szintén elfelejtünk.",
+    "hypothesis": "Aári Tamás Lajos szerint a gyerekeink egészsége fontos ügy."
+  },
+  {
+    "id": "6",
+    "premise": "Az újságban olvastam egy hirdetést hogy ágyszínházhoz keresnek önkénteseket, Társi István :- Akkor Ön még nagyon új? Hajdúné Varga Andrea: - Igen, teljesen új. Az elején kicsit féltem hogy majd nem tudom elfogadni hogy ők betegek, de észre sem veszem.",
+    "hypothesis": "Hajdúné Varga Andrea szerint a kórházban a nézők betegek."
+  },
+  {
+    "id": "7",
+    "premise": "DR.Hegedüs Lajos: - Ebből a 40 ezer igénylőből a kormány idei ajánlata szerint 2000-en kaphatnának támogatást, ami azt jelenti, hogy 20 évenként juthatna hozzá - ilyen számok mellett - a mozgássérült a támogatáshoz. Egy érdekképviseleti szerv nem fogadhatja el azt hogy három év alatt egyharmadára csökkenjen egy támogatási keret…",
+    "hypothesis": "DR.Hegedüs Lajos szerint három év alatt egyharmadára csökken a támogatási keret."
+  },
+  {
+    "id": "8",
+    "premise": "DR.Hegedüs Lajos: - Ebből a 40 ezer igénylőből a kormány idei ajánlata szerint 2000-en kaphatnának támogatást, ami azt jelenti, hogy 20 évenként juthatna hozzá - ilyen számok mellett - a mozgássérült a támogatáshoz. Egy érdekképviseleti szerv nem fogadhatja el azt, hogy… ... a várakozási idő amely kb. 8-9 év volt korábban, az egyszerében 20 évre növekedhessen, ez számunkra teljes egészében elfogadhatatlan.",
+    "hypothesis": "DR.Hegedüs Lajos szerint a várakozási idő 20 évre növekedik."
+  },
+  {
+    "id": "9",
+    "premise": "Jó estét kívánok kedves hallgatóink Gecse Géza vagyok a műsor mai szerkesztője. Adrian Nastase román miniszterelnök nyilt levelet írt Orbán Viktornak, amelyben a Fidesz Magyar Polgári Szövetség elnöke tusnádfürdői beszédére reagálva kijelentette hogy nem fogadja el hogy Romániában nincs demokrácia.",
+    "hypothesis": "Adrian Nastase szerint Romániában nincs demokrácia."
+  },
+  {
+    "id": "10",
+    "premise": "Tehát akik azért nem ápolnak ilyen közeli barátságot evvel a csapattal. Én itt is egy szurkoló vagyok akinek egy kamera van a kezében ami azt tudja biztosítani hogy ez a dolog nem merül feledésbe.",
+    "hypothesis": "A beszélő szerint ez a dolog nem merül feledésbe."
+  },
+  {
+    "id": "11",
+    "premise": "Például nem említette például Belgiumot, ez még úgy a tarsolyunkban van. előfordulhat például, hogy Belgiumból. Mi magyar kötődésű csapatokat szeretnénk elsősorban nyugatról meghívni, éppen most van egy ilyen belga csapat, előfordulhat hogy még ők valahogy, akár még talán idén is képbe kerülnek, és aztán szépen fokozatosan bevonódnak adott esetben éppen mondjuk Franciaország is.",
+    "hypothesis": "A beszélő szerint a belga csapat még idén képbe kerül."
+  },
+  {
+    "id": "12",
+    "premise": "Tehát igaz, hogy a választási részvétel összességében nagyobb, de a román pártok mozgósítása is jelentősebb volt mindkét megyében. Több szavazatot összesítettek és Kovászna megyében biztosan beviszik a képviselőjüket, aki eddig is volt, előfordulhat hogy kettőt visznek be és Hargita megyébe bevisznek egy képviselőt, ami nem történt meg 1992 óta.",
+    "hypothesis": "A beszélő szerint kettő képviselőt visznek be."
+  },
+  {
+    "id": "13",
+    "premise": "Kolompár Orbán egyébként reméli, hogy a bíróság elnökhelyettese nem rájuk gondolt amikor sajnálatosnak nevezte a csoport megjelenését. Arra a kérdésre ma nem sikerült választ kapnunk, miért fordulhatott elő hogy a Fővárosi Bíróság tárgyalójának előterében nem rendőr vagy bírósági biztonsági őr, hanem egy gárdista irányította ki mehet be a terembe és ki nem.",
+    "hypothesis": "A beszélő szerint a Fővárosi Bíróság tárgyalójának előterében nem rendőr vagy biztonsági őr, hanem egy gárdista irányította, ki mehet be a terembe és ki nem."
+  },
+  {
+    "id": "14",
+    "premise": "Na most hogy a kereszténységnek mi lesz a szerepe a jövőben azt nehéz mondani. De az biztos hogy azt nem lehet egyszerűen elfelejteni hogy Munkácsy például ezért festett, neki volt ez a témája.",
+    "hypothesis": "A beszélő szerint Munkácsy a kereszténység miatt festett, neki az volt a témája."
+  },
+  {
+    "id": "15",
+    "premise": "A katolikus egyház ebben nem akart bekapcsolódni, ez az ő dolguk. Nem kommentálom. Nagyon fontos volna hogy nem csupán a távol múlt hanem a közelmúlt ügyében is igazságot szolgáltassunk és feltárjuk a valóságot, hiszen ne felejtsük el hogy 1989. decemberében mintegy ezerötszáz embert öltek meg tömeggyilkosságok áldozataivá váltak.",
+    "hypothesis": "A beszélő szerint 1989 decemberében mintegy ezerötszáz embert öltek meg, váltak tömeggyilkosok áldozataivá."
+  },
+  {
+    "id": "16",
+    "premise": "Gyöngyösi Márton: - Ez nincs így és kétségtelenül hogy ez a legkirívóbb eset, de azért ott van Malina Hedvig ügye a Felvidéken, Erdélyben Cseresznyés Pál esete, ami ha nem is összemérhető ezzel az esettel, de azért szépen mutatja azt hogy ez nem példa nélküli. Számos lehetőség kínálkozik Magyarországnak egy ilyen esetben. Ne felejtsük el hogy tavaly télen Magyarország látta el gázzal Szerbiát abban a nagyon kritikus téli időszakban, amikor ugye az orosz-ukrán gázvita zajlott, a külpolitika az igenis arról szól, hogy valamit valamiért alapon érvényesítjük a saját érdekeinket.",
+    "hypothesis": "Gyöngyösi Márton szerint tavaly télen Magyarország látta el gázzal Szerbiát abban a nagyon kritikus téli időszakban."
+  },
+  {
+    "id": "17",
+    "premise": "Juhász Zsolt: - Tehát lehet hogy akkor elindul egy bizonyos felelősségre vonási eljárás a hazai közéletben? Simon János: - Ne felejtsük el hogy a budapesti kerületek, önkormányzatok, SZDSZ-es polgármestereivel szemben is akkor indultak el ezek a felelősségre vonási hercehurcák, amikor már meggyengült az SZDSZ, illetve azok a kormányzati pozíciók amelyeket ő viselt és védte őket, azok meggyengültek.",
+    "hypothesis": "Simon János szerint a budapesti kerületek, önkormányzatok, SZDSZ-es polgármestereivel szemben is akkor indultak el ezek a felelősségre vonási hercehurcák, amikor már meggyengült az SZDSZ."
+  },
+  {
+    "id": "18",
+    "premise": "Továbbá Jézus szavaival mit használ az embernek ha az egész világot megnyeri. Lelkében pedig kárt vall. Szeressük a jó focit. Ha tehetjük kísérjük figyelemmel a mérkőzéseket. Ám ne felejtsük el hogy a házigazda országban mennyi nyomorúság halmozódott fel.",
+    "hypothesis": "A beszélő szerint a házigazda országban sok nyomorúság halmozódot fel."
+  },
+  {
+    "id": "19",
+    "premise": "Akkor elmenekültek, nádasban lapultak, vagy erdőben lapultak, fél évig meghúzták magukat és utána a túlélés sikeres votl és elkezdték az életüket esetleg egy új helyen. Soha nem felejtem el hogy amikor a kilencvenes évek elején Szabófalván mászkáltam, akkor a szabófalvi ismerőseim mondták hogy megtalálták a régi miszéckének a helyét.",
+    "hypothesis": "A beszélő szerint amikor a kilencvenes évek elején Szabófalván mászkált, a szabófalvi ismerősei mondták, hogy megtalálták a régi miszéckének a helyét."
+  },
+  {
+    "id": "20",
+    "premise": "Papcsák Ferenc: - Hogyne, hiszen én magam is azt követően folyamatosan sajtóztam és számtalanszor rá is kérdeztünk Medgyessy Péternél mind a parlamentben mind az orgánumok a sajtó útján, máig nem kaptunk egyébként választ tőle, hogy mire gondolt. Azért azt ne felejtse el hogy mi nyolc évig ellenzékben voltunk és ők azt tettek fel az internetre üvegzseb programként amit akartak.",
+    "hypothesis": "Papcsák Ferenc szerint ők nyolc évig ellenzékben voltak és amazok azt tettek fel az internetre üvegzseb programként, amit akartak."
+  },
+  {
+    "id": "21",
+    "premise": "Juhász Zsolt: - Ha ellentmondóak is a nyilatkozatok végül is beszédes lehet az az összeg amely kárként érte a magyar államot? Budai Gyula: - Jelen pillanatban a kár értéke 1,3 milliárd forint. Ne felejtsük el hogy az emlékeztetőben az szerepel, hogy Tátrai Miklós felelős a területek cseréjéért.",
+    "hypothesis": "Budai Gyula szerint az emlékeztetőben az szerepel, hogy Tátrai Miklós felelős a területek cseréjéért."
+  },
+  {
+    "id": "22",
+    "premise": "Vagyis a szemléletet próbálta meg ezalatt a rövid idő alatt sugározni, hogy aztán ennek a pontos elemei hogyan alakulnak ezek hosszútávúak, rövidtávon ez mindig visszaesést eredményez, és csak hosszútávon hozza meg az eredményt. Hát itt vannak azok a dilemmák, amelyek benne feszülnek a rendszerben. Hát meg ugye azért azt se felejtsük el hogy a magyar gazdaság fellendülése nagyon nagymértékben kiszolgáltatott a világgazdaságnak és ezen belül is elsősorban a német folyamatoknak.",
+    "hypothesis": "A beszélő szerint a magyar gazdaság fellendülése nagyon nagymértékben kiszolgáltatott a világgazdaságnak és ezen belül is elsősorban a német folyamatoknak."
+  },
+  {
+    "id": "23",
+    "premise": "Salamon Konrád: - Igen. Hát az alapozás kétségtelenül 1990-ben kezdődött, az Antall kormány idején, amit én természetesen úgy ítélek meg hogy ez mindenek ellenére egy jó alapozás volt. Tragédiának tartom azt hogy nem folytatódhatott és ne felejtsük el hogy 2002-ben a választási kampányban a szocialisták is elismerték, hogy az ország jó állapotban van, gazdaságilag is nagyon jó állapotban van és ebből azt a következtetést vonták le, hogy éppen ezért sokkal többet lehetne adni az embereknek és meg is hirdették a rendkívül hatásos jelszót, hogy több pénzt az embereknek, több pénzt az önkormányzatoknak.",
+    "hypothesis": "Salamon Konrád szerint 2002-ben a választási kampányban a szocialisták is elismerték, hogy az ország jó állapotban van."
+  },
+  {
+    "id": "24",
+    "premise": "Sebők János: - Pontosan. Pontosan. Tehát be kellett illeszkedni a hétköznapok valóságába és ugye hát a Wotergate botrányig még van egy-két év. Tehát az ismert nagyon radikálisan visszacsap, nagyon radikálisan integrál és ne felejtsük el hogy itt van az a pillanat amikor a fogyasztói társadalom hihetetlen mértékben kezdi manipulálni azokat az új dolgokat amit ez az alternatív társadalom vagy andegrand vagy hippi társadalom vagy nevezhetjük bárminek.",
+    "hypothesis": "Sebők János szerint itt van az a pillanat, amikor a fogyasztói társadalom hihetetlen mértékben kezdi manipulálni azokat az új dolgokat, amit ez az alternatív társadalom vagy andergrand vagy hippi társadalom vagy nevezhetjük bárminek."
+  },
+  {
+    "id": "25",
+    "premise": "DR.Boda Zoltán: - Ez egy nagyon jogos kérdés, ez egy nagyon nagyon jogos kérdés. És természetesen igyekeztünk minden rendelkezésre álló laboratóriumi eszközös módszerekkel megközelíteni hogy mi történik tulajdonképpen. Nos azt kell mondjam hogy a klinikai javulás az sokkal látványosabb mint ami a mérhető eredmény. Még keresnünk kell azt a módszert amivel talán a legjobban meg lehetne fogni ennek az őssejt terápiának a mérését Ez nemzetközi irodalomban is vita tárgya, de azért ne felejtse el hogy én belgyógyász vagyok, számomra egyetlen és döntő dolog van, a beteg.",
+    "hypothesis": "A beszélő szerint ő egy belgyógyász."
+  },
+  {
+    "id": "26",
+    "premise": "Ez inkorrekt, ez igazságtalan és tarthatatlan. Ezt meg kell mindenféleképpen változtatni. Ez most nekik nagyon fáj, ezért hangoskodnak. Akkor amikor a szocialista párt megemelte a nyugdíjkorhatárt ne felejtsük el hogy ez az MSZP-SZDSZ kormányok idején történt, és lerontotta a kezdő nyugdíjakat, akkor szép csöndben a parlamentben ültek és megnyomták az igen gombot.",
+    "hypothesis": "A beszélő szerint a nyugdíjkorhatár megemelése az MSZP-SZDSZ kormányok idején történt."
+  },
+  {
+    "id": "27",
+    "premise": "Tehát Bajnai Gordon nem mondta el az ügyészségen azt ami ebben az ügyben neki a tudomására jutott. és ne felejtsük el hogy valós tények elhallgatása is megvalósítja ezt a bűncselekményt.",
+    "hypothesis": "A beszélő szerint valós tények elhallgatása is megvalósítja ezt a bűncselekményt."
+  },
+  {
+    "id": "28",
+    "premise": "Én remélem hogy egyre több győzelmet fogunk aratni, ezért nem szabad feladni. Miért lenne ez egy lezárt dolog? bármikor újra lehet nyitni az alap értékekről a tárgyalást. És ne felejtsük el hogy azért vannak rész sikerek ebben akár az Európa Tanácsban, akár az európai parlamentben.",
+    "hypothesis": "A beszélő szerint vannak rés sikerek ebben akár az Európa Tanácsban, akár az európai parlamentben."
+  },
+  {
+    "id": "29",
+    "premise": "tehát a vagyonkezelő vezérigazgatója illetve a vagyonkezelő megfelelő beosztású személyei nem maguktól döntöttek ebben a kérdésben, hanem a vagyonkezelőt felügyelő akkori pénzügyminiszter Veres János utasítására. Illetve ne felejtsük el hogy a sukorói kaszinó beruházás tekintetében volt egy kormánydöntés, amely azt mondja hogy a sukorói ingatlan beruházás az kiemelt kormányprogram, ekkor Gyurcsány Ferenc volt a miniszterelnök, majd a későbbi miniszterelnök Bajnai Gordon volt a gazdasági miniszter és ezen kormánydöntésben az is szerepel hogy ez a beruházás az izraeli befektető részére a magyar adófizetők pénzéből 2,5 milliárd forint állami támogatást kíván biztosítani.",
+    "hypothesis": "A beszélő szerint a sukorói kaszinó beruházás tekintetében volt egy kormánydöntés, amely azt mondja, hogy a sukorói ingatlan beruházás kiemelt kormányprogram."
+  },
+  {
+    "id": "30",
+    "premise": "Hollós János: -Ezek milyen padlóburkolatok? - Mintás lap, mint egy török. Hollós János: - Török fürdőnek a padlója olyasmi? - Mondjuk. Ilyen mintás. Hollós János: -A magyarok nem jönnek rá hogy ez érték?",
+    "hypothesis": "Hollós János szerint ez érték."
+  },
+  {
+    "id": "31",
+    "premise": "Én ezt felvittem megkaptam a tizenötezer forintomat és jöttem haza. Nem dolgoztam, akkor éppen főállású anyaságin voltam, minden pénz számított. Varga Tünde: - Egy-két hibát azt belátja hogy elkövetett?",
+    "hypothesis": "Varga Tünde szerint beszélgetőtársa egy-két hibát elkövetett."
+  },
+  {
+    "id": "32",
+    "premise": "És teljesen nyilvánvaló hogy mind a lelki mind a fizikai test újra termelésének ezek a rendkívül súlyos deformációi valójában arra vezethetők vissza hogy hiányzik a gazdaság működtetéséből az a döntő fontosságú szempont, hogy ez az emberi életminőségért van. A gazdaság nem egy öncélú valami, hanem döntően szolgálója az emberi létminőség emelésének. És ezt kell tudatosítani a magyar társadalom egy lepusztulási lejtőn halad most már évtizedek óta és az erről a lejtőről való visszafordulás egyetlen lehetősége hogyha minél hamarabb minél hatékonyabban és minél szélesebb körben tudjuk tudatosítani hogy a visszafordulást csak egy új harmóniára épülő gazdaság berendezkedés teheti lehetővé.",
+    "hypothesis": "A beszélő szerint a visszafordulást csak egy új harmóniára épülő gazdaság berendezkedés teheti lehetővé."
+  },
+  {
+    "id": "33",
+    "premise": "Tehát én nem értettem hogy a szabaddemokratákkal vagy a Fidesszel szimpatizáló liberális újságírók miért érezték úgy hogy az vereség. Én úgy gondoltam hogy az egész ellenzéknek győzelem volt, mert egész Magyarországnak győzelem volt. Dehát ezt nem mindenki így élte meg. De ettől függetlenül azt én nem gondolom hogy a kormányzó pártok politikusai nem kaptak volna bőségesen nyilvánosságot.",
+    "hypothesis": "A beszélő szerint a kormányzó pártok politikusai nem kaptak bőségesen nyilvánosságot."
+  },
+  {
+    "id": "34",
+    "premise": "Én azt gondolom, hogy arra nem lehet késztetni senkit, hogy önköltségi ár alatt adjon el, mert az veszteség és azt valahonnan finanszíroznia kell és egy tavalyi fagy után ez elég problémás most valóban Szabolcsban, viszont hát nyilván a feldolgozót sem lehet veszteségre kényszeríteni, ezért nem gondolnám, hogy az járható út, hogy mi itt támogatásokat vonjunk meg, amik egyébként nincsenek, tehát itt maximum fejlesztési tipusú támogatásokról lehet szó, meg a hosszabbtávú dolgokat akadályozná meg, hogy ha ez nem történne meg Szabolcsban.",
+    "hypothesis": "A beszélő szerint az a járható út, hogy támogatásokat vonjanak meg."
+  },
+  {
+    "id": "35",
+    "premise": "Molnár Pál Riporter: - Minálunk olyannyira nem átlátható, hogy Varga Mihály korábbi pénzügyminiszter úgy látja, hogy mintegy 450 milliárd forintot a mostani Pénzügyminisztérium tartalékol egy esetleges választási költségvetésre. Elképzelhető ez? Csaba László közgazdász professzor: - Az egy kérdés, hogy effektíve benne van -e ez a bizonyos 450 milliárd, amit az Állami SzáMűsorvezetőevőszék talált, hogy az pénzforgalmi szemléletben, tehát a közvetlen elkölthetőség szempontjából benne van -e a költségvetésben, de hát azt gondolom, hogy az elmúlt hetek megrázkódtatásait követően egészen biztos, hogy senki nem gondolhat arra, hogy a magyar kormány tetszése szerint költ erre meg amarra.",
+    "hypothesis": "A beszélő szerint a magyar kormány tetszése szerint költ erre meg amarra."
+  },
+  {
+    "id": "36",
+    "premise": "A mai Magyarországon kerül az emberek elé, vagy esetleg a Felvidéken is vagy még messzebb is távolabbi tájakon is majd megnézhetik az érdeklődők? Forgalmazót nem sikerült találnunk a filmnek, magunk modnjuk így hogy házalunk vele, tehát egyesével hívogatjuk fel a mozikat és kérdezzük hogy nem gondolnák -e hogy játszanák.",
+    "hypothesis": "A beszélő szerint játsszák a mozik a filmet."
+  },
+  {
+    "id": "37",
+    "premise": "Szabó Attila szerint, ennek is lehet pozitív hatása, ha a szabályszegő autós felfedezi kocsiját az oldalon. \"akkor is el fog gondolkodni azon, hogy mit tett. Most én nem gondolom, hogy el fog futni templomba és meggyónja a bűnét",
+    "hypothesis": "Szabó Attila szerint a szabályszegő el fog futni a templomba és meggyónja a bűnét."
+  },
+  {
+    "id": "38",
+    "premise": "Nagyon sok olyat megtanultunk mind az iskolában mind eddigi munkahelyeinken, amit most szeretnénk termőre fordítani. Nem gondoljuk azt hogy ezeket ne lehetne akár kisvállalkozások számára gyümölcsöző módon lefordítani",
+    "hypothesis": "A beszélő szerint a tanultakat nem lehet kisvállalkozások számára gyümölcsöző módon lefordítani."
+  },
+  {
+    "id": "39",
+    "premise": "Most elsőéves ifista és a világranglistán ő most már a harminchatodik, az európain huszonegyedik. Nekem is már egy kicsit túlzás, mert nem gondoltam, hogy ilyen jól sikerül.",
+    "hypothesis": "A beszélő szerint jól sikerült."
+  },
+  {
+    "id": "40",
+    "premise": "Csath Magdolna: - Ha csak saját maguktól rá nem jönnek arra, hogy a saját jövőbeli esélyeiket is mérséklik azzal, hogyha nagyon rövidtávú szemlélettel minden pénzt amit lehet ki akarnak csavarni az emberekből. Én egyébként nem gondolom, hogy az emberek felelőtlenül vettek fel hitelt.",
+    "hypothesis": "Csath Magdolna szerint az emberek felelőtlenül vettek fel hitelt."
+  },
+  {
+    "id": "41",
+    "premise": "A másik természetesen az emberek csak ebből vannak informálva és hogyha állandóan azt hallják és azt olvassák és főcímen azt olvassák, hogy ez az új magyar kormány milyen, akkor sajnos elhiszik. Én mást nem csinálok az utolsó egy évben csak védekezem. Soha nem hittem volna, hogy intelligens művelt barátaimnak kell elmagyaráznom, hogy hol a hiba és hogy hogy kell látniuk az egészet és nem hiszik el.",
+    "hypothesis": "A beszélő szerint intelligens művelt barátainak kell elmagyaráznia, hogy hol a hiba és hogy hogy kell látniuk az egészet."
+  },
+  {
+    "id": "42",
+    "premise": "Fülöp Lajos: - Hát köztársaságról nincsen szó, csak bizonyos autonómiáról. Ugye nincsen szó arról, hogy külön akarnánk válni. Nem vagyunk szeparatisták, mert 92%-a a lakosságnak megszavazta, hogy Ukrajnához fogunk tartozni, ezért hát úgy vélem, hogy ez csak egy nacionalista húzás azért, hogy tudják törölni a ruszinságot és beolvasztani az ukrán metnoszba ugyanakkor, amikor nekünk megvan a saját történelmünk, megvan a saját anyanyelvünk, múltunk, stb. és ezért harcolunk, hogy el legyünk ismerve.",
+    "hypothesis": "Fülöp Lajos szerint ez csak egy nacionalista húzás azért, hogy tudják törölni a ruszinságot."
+  },
+  {
+    "id": "43",
+    "premise": "A férfi vízilabda bajnokság rangadóján Honvéd-Szeged 6-8. Kiss Csabát a Szeged játékosát halljuk. Volt már egy-két Honvéd-Szeged ami ugyanilyen őrült módon alakult, három keresztül úgy vélem, hogy azt tükrözte a játék ami a valós különbség volt a két csapat között.",
+    "hypothesis": "A beszélő szerint azt tükrözte a játék ami a valós különbség volt a két csapat között."
+  },
+  {
+    "id": "44",
+    "premise": "Annak ellenére, hogy naponta érkeznek hírek hatalmas korrupciós ügyekről, mégis egyszerű emberek képesek lennének 2500-3000 forintot adni a saját pénztárcájukból azért, hogy csökkenjen az ország kamatterhe. Mellár Tamás: - Én úgy vélem, hogy ez mindenképpen jó hír és megerősíti a kormánynak azt a törekvését, hogy próbál ebből az adósság csapdából megszabadulni.",
+    "hypothesis": "Mellár Tamás szerint ez mindenképpen jó hír."
+  },
+  {
+    "id": "45",
+    "premise": "Molnár Pál: - A választópolgárok egy része nagyon szeretné az elszámoltatást. Ugyanakkor a másik oldalon ott van a jogállamiság követelménye. Teremthető -e harmónia? Bus Béla: - Úgy vélem hogy igen.",
+    "hypothesis": "Bus Béla szerint megteremthető a harmónia."
+  },
+  {
+    "id": "46",
+    "premise": "Tudjuk hogy Antall József aktuális, aktuális a magyarság, a lélekben tizenöt millió magyar képviselete, hiszen mi lenne más például a kettős állampolgárság megadása mint ez. Aktuális például a kereszténydemokrácia szelleme, hiszem úgy vélem, hogy a jelenlegi kormányzat is jelentős mértékben ezen az úton jáRiporter",
+    "hypothesis": "A beszélő szerint a jelenlegi kormányzat a kereszténydemokrácia útján jár."
+  },
+  {
+    "id": "47",
+    "premise": "B. A MOL nem aggódik a magyarországi olajellátás miatt, annak biztonságának nem veszélyezteti a Jukosz olajtermelésének esetleges leállása - közölte a Magyar Rádióval a MOL sajtóirodája. Egyben közölte a Jukosz üggyel kapcsolatban nem kívánnak nyilatkozni. Szakértők úgy vélik a magyar olajtársaság egyéb forrásokból is be tudja szerezni a szükséges olajmennyiséget.",
+    "hypothesis": "A beszélő szerint a magyar olajtársaság egyéb forrásokból is be tudja szerezni a szükséges olajmennyiséget."
+  },
+  {
+    "id": "48",
+    "premise": "Csak az MSZP-s felszólalók támogatták a kormány tervét az ún. Robin Hood-adó bevezetésére az Országgyűlésben. Az ellenzéki képviselők úgy vélik, a javaslat nem alkalmas arra, hogy versenyképessé tegye a távhőszolgáltatást.",
+    "hypothesis": "A beszélő szerint a javaslat nem alkalmas arra, hogy versenyképessé tegye a távhőszolgáltatást."
+  },
+  {
+    "id": "49",
+    "premise": "B.: - Sajtóértesülés szerint fegyvereket találtak a Dunában, amelyeket a Teve utcai rendőrpalota elleni támadáshoz használhattak. A Független Hírügynökség úgy tudja, hogy egy gépkarabélyt, lőszereket és egy hangtompítót hoztak felszínre.",
+    "hypothesis": "B. szerint egy gépkarabélyt, lőszereket és egy hangtompítót hoztak felszínre."
+  },
+  {
+    "id": "50",
+    "premise": "Herényi Károly egyetértett azzal, hogy az államháztartás egésze rosszul működik. Úgy tudja, hogy a munkaerőpiaci alap 400 milliárd forintjából idén száz jutott munkanélküli vagy álláskeresési támogatásra, a többit nem költötték hasznos célokra, kidobták az ablakon.",
+    "hypothesis": "Herényi Károly szerint a munkaerőpiaci alap 400 milliárd forintjából idén száz jutott munkanélküli vagy álláskeresési támogatásra, a többit nem költötték hasznos célokra, kidobták az ablakon."
+  },
+  {
+    "id": "51",
+    "premise": "Műsorvezető: - 2011 januártól működhetne az elektronikus útdíj-rendszer - írja a Népszabadság. A lap úgy tudja, hogy a 3,5 tonnánál nagyobb teherautók és buszok a főutakat az új rendszer elindulása után is matricával használhatnák.",
+    "hypothesis": "A műsorvezető szerint a 3,5 tonnánál nagyobb teherautók és buszok a főutakat az új rendszer elindulása után is matricával használhatnák."
+  },
+  {
+    "id": "52",
+    "premise": "Brit sajtóértesülés szerint az Európai Labdarúgó Szövetség felkérte Németországot, hogy szükség esetén ugorjon be Ukrajna helyett és rendezze meg Lengyelországgal közösen a 2012-es Európa Bajnokságot. Az újság úgy tudja, az UEFA német részről a lengyel határhoz viszonylag közel eső Berlint és Lipcsét szemelte ki póthelyszínként.",
+    "hypothesis": "A beszélő szerint az UEFA német részről a lengyel határhoz viszonylag közel eső Berlint és Lipcsét szemelte ki póthelyszínként."
+  },
+  {
+    "id": "53",
+    "premise": "Négy magyar fiatal sérült meg Horvátországban, amikor autójukkal sziklának ütköztek Zára közelében. A kinti magyar konzul úgy tudja, egyikük súlyos sérüléseket szenvedett.",
+    "hypothesis": "A beszélő szerint a négy magyar fiatal közül egy súlyos sérüléseket szenvedett."
+  },
+  {
+    "id": "54",
+    "premise": "Sipos Ildikó: - Úgy tűnik mindenki engedett az MDF-ben. A listán ugyanis a pártelnök eredeti tervének megfelelően helyet kapott az SZDSZ. Bokros Lajos viszont az országos listán nem szerepel. A budapesti listát viszont ő vezeti - tájékoztatott közleményben az MDF. A párt választmánya csak hosszas vita után jutott dűlőre. A megyei delegáltak az SZDSZ-nek egyáltalán nem adtak volna helyet. Dávid Ibolya viszont ragaszkodott ehhez. Makai Zsolt választmányi elnök pedig még pénteken azt javasolta, miniszterelnök jelöltjük csak a budapesti listát vezesse. Az Index úgy tudja, a meddővé váló vitát és az így kialakult patthelyzetet végül Bokros Lajos oldotta fel, aki saját javaslatot terjesztett be és közölte, visszalép ha az országos választmány ezt nem fogadja el.",
+    "hypothesis": "Az Index szerint a meddővé váló vitát és az így kialakult patthelyzetet végül Bokros Lajos oldotta fel."
+  },
+  {
+    "id": "55",
+    "premise": "A Katonai Ügyészség nyomoz az ügyben. Egyelőre nem nyilatkoznak. Ma tartanak sajtótájékoztatót a vizsgálatról. Az Index internetes oldal úgy tudja, az Állami Egészségügyi Központ igazgatója tett feljelentést, aki az egyik munkatársától tudta meg, mi történik a szülészeten.",
+    "hypothesis": "A beszélő szerint az Állami Egészségügyi Központ igazgatója tett feljelentést."
+  },
+  {
+    "id": "56",
+    "premise": "Műsorvezető: - Tehát akkor most visszatérve a kiindulási ponthoz, a sajnálatos egyiptomi tragédiához, az nem lehet kérdés, hiszen szállítás közben, szállodából a repülőtérre szállították az utasokat, történt ez a nagyon súlyos közlekedési baleset, hogy az utazási iroda, az utaztató iroda kártérítési felelősséggel tartozik. Molnár Gabriella: - Igen, mert a külföldi busztársaság az az ő külföldi közreműködője volt, és hát úgy tudom, a legjobb információk szerint, hogy ezért az utazási iroda mindent meg is tesz, hogy az utasait hazahozza, kártalanítsa, mindent megtegyen a probléma rendezése érdekében.",
+    "hypothesis": "Molnár Gabriella szerint az utazási iroda mindent megtesz, hogy az utasait hazahozza, kártalanítsa."
+  },
+  {
+    "id": "57",
+    "premise": "A Magyar Nemzeti Bank döntéshozó testülete legutóbbi ülésén 8.5%-on hagyta az alapkamatot. Műsorunk vendége volt Karvalics Ferenc, a jegybank alelnöke. A piacnak ez nem volt meglepetés a hírek szerint, de úgy tudom, szóba került azért a kamatcsökkentés lehetősége is.",
+    "hypothesis": "A beszélő szerint szóba került azért a kamatcsökkentés lehetősége is."
+  },
+  {
+    "id": "58",
+    "premise": "Orbán Viktor  miniszterelnök a pénteki 180 percben elmondta, hogy a jövő évi költségvetésben már szerepelhet az új adó. Orbán Viktor: Ez a tranzakciós illeték, mindenfajta munkanevei léteznek ebben a pillanatban, de jó ha tudjuk, hogy ugyanarról beszélünk.",
+    "hypothesis": "A beszélő szerint a tranzakciós illetékről beszélünk akkor is, ha más munkaneveken említjük azt."
+  },
+  {
+    "id": "59",
+    "premise": "Riporter: A tartományi parlamentben a Demokrata Párt majdnem abszolút többséget szerzett. Hogyan lehetséges majd a tartományi érdekeket képviselni, ha tudjuk, ugye hogy egy belgrádi párt a legnagyobb erő a vajdasági parlamentben is?",
+    "hypothesis": "A Riporter szerint egy belgrádi párt a legnagyobb erő a vajdasági parlamentben."
+  },
+  {
+    "id": "60",
+    "premise": "Csányi Sándor : Azt gondolom, hogy így tudjuk reálisan felmérni, hogy hol tart a magyar futball, legalábbis az utánpótlás-kérdés, hogyha nemcsak egymás között, hanem a válogatottakon kívül a klubcsapatok játszanak egymás ellen. Ebből azt láthatjuk, hogy most a jelenlévő csapatok között a magyar futball jó színvonalat képviselt.",
+    "hypothesis": "Csányi Sándor szerint a jelenlévő csapatok között a magyar futball jó színvonalat képviselt."
+  },
+  {
+    "id": "61",
+    "premise": "Mondta el tapasztalatait a Krónikának egy Pest megyei kisbolt tulajdonosa. Illés Hajnalka hozzátette, érezhetően nőtt a forgalma az elmúlt időszakban. Illés Hajnalka, üzlettulajdonos; Úgy látom, hogy az emberek egy kicsit átrendezték az életüket.",
+    "hypothesis": "Illés Hajnalka szerint az emberek kicsit átrendezték az életüket."
+  },
+  {
+    "id": "62",
+    "premise": "Az LMP kész a parlamenti együttműködésre. Egyébként a kormánypártokkal is, hogy a választások után milyen helyzet áll elő, ezt most nagyon nehéz megválaszolni, az együttműködés lehetőségét az LMP nyitva tartja jobb- és baloldalra egyaránt. Riporter: Selmeci Gabriella, Fidesz-szóvivő a Krónikának úgy reagált, az LMP saját szavahihetősége vált kérdésessé az MSZP-vel való közös fellépéssel.",
+    "hypothesis": "Selmeci Gabriella szerint az LMP szavahihetősége kérdésessé vált."
+  },
+  {
+    "id": "63",
+    "premise": "A fellebbviteli tárgyalás folytatódik most. Előtte ismét tiltakoznak Sepsiszentgyörgyön, Sánta Imre bikfalvi lelkész október negyedikére élőlánc alakítására kérte fel polgártársait. Úgy véli, kezdeményezése nem minősíthető nyomásgyakorlásnak a bíróságra.",
+    "hypothesis": "Sánta Imre szerint kezdeményezése nem minősíthető nyomásgyakorlásnak a bíróságra."
+  },
+  {
+    "id": "64",
+    "premise": "Műsorvezető: Az Audi is beszáll a Győrhöz közeli Pér repülőterének bővítésébe - értesült a Kisalföld. A lap úgy tudja, jövő tavasszal indulhat a kifutópálya meghosszabbítása.",
+    "hypothesis": "A műsorvezető szerint jövő tavasszal indul a kifutópálya meghosszabbítása."
+  },
+  {
+    "id": "65",
+    "premise": "Műsorvezető: Meghalt az a 47 éves püspökladányi férfi, akit vadászat közben lőtt le egy vadász tegnap este Püspökladány közelében. Takács Tibor információi. Riporter: A vadászbaleset egy mezőgazdasági területen történt, úgy tudjuk az áldozatot a saját tulajdonú földjén érte a halálos lövés.",
+    "hypothesis": "A Riporter szerint a püspökladányi férfit a saját tulajdonú földjén érte a halálos lövés."
+  },
+  {
+    "id": "66",
+    "premise": "Riporter: Az egymilliárdos tartozások rendezését banki kölcsönökből próbálták megoldani. Ám a bankok nem látják a visszafizetés garanciáját, a Gyulai Kolbászt, mint hungarikumot is gyártó húskombinát azonban nem kaphat az államtól tőkeinjekciót - tiltják az uniós szabályok. Most úgy tűnik, hogy a négyszáz embernek munkát adó céget a tulajdonosok tőkéjéből kell talpra állítani, az igazgatóságnak mondta Ruck János, két-három hét alatt kell kidolgoznia egy vészforgatókönyvet, a cég megmentésére.",
+    "hypothesis": "Ruck János szerint a céget a tulajdonosok tőkéjéből kell talpra állítani."
+  },
+  {
+    "id": "67",
+    "premise": "Pál: Én megértem azokat, akik nem maradnak itt és elmennek külföldre végleg, és én nem értem meg azokat, akik elmennek külföldre és nem jönnek vissza. Árpád :Hát hogy elmenni külföldre tanulni az teljesen rendbe van és kell, nem csak Romániában meg Magyarországon kell gondolkodni, hanem világszinten meg kell ismerni a színházi nyelvet, de az hogy ott maradni és teljesen hátrahagyni mi van itthon, azt nem hiszem, hogy egy jó dolog.",
+    "hypothesis": "Árpád szerint jó dolog elmenni külföldre, ott maradni és teljesen hátrahagyni azt, ami otthon van."
+  },
+  {
+    "id": "68",
+    "premise": "Műsorvezető: És a költő hogyan vagy miképp tudja másképpen ajánlani mindazt, amit átél, mert én azt gondolom, azért az ön szűrője más lehet, mint a hétköznapi emberé ez esetben. Szálinger Balázs: Hát az, hogy költészet az csak az embernek a munkája, nem hiszem, hogy a szűrőm más lenne, mint bármelyik más 33 éves úriembernek a szűrője.",
+    "hypothesis": "Szálinger Balázs szerint az ő szűrője más, mint a többi 33 éves férfié."
+  },
+  {
+    "id": "69",
+    "premise": "Beke Sándor: - Igen, nagyon sok esetben igényt elégített ki és igényt is támasztott, de a médiának ebben fokozott felelőssége van. Azt, hogy gyakorlatilag valaki whiskyt fogyaszt azért, mert olyan bűncselekményre készül, ahol feszültségét csökkentenie kell és elfogyaszt egy-két deci whiskyt. Nem hiszem, hogy ez rituális dolog volt részéről.",
+    "hypothesis": "Beke Sándor szerint rituális dolog volt, hogy a rabló whiskyt fogyasztott a bűncselekmény előtt."
+  },
+  {
+    "id": "70",
+    "premise": "Ugyanakkor láttunk erre ellenkező példát, hogy igenis lehet ezt a műfajt is jól csinálni, mégpedig akkor, hogyha a kooperálás közben mutatja be az embereket, akkor, hogyha általánosságban megmutatja azt, hogy milyen rossz hatása lehet az egyénre az, hogyha rasszista, mert esetleg ő esik csapdába, lehet ezt a műfajt is jól csinálni, hogyha kellőképpen körültekintéssel és alaposan végiggondolva csinálják meg. Megszólaló2: Hát most már ötven év van mögöttem, dolgoztam csak romákkal is, szóval én nem hiszem, hogy az emberi kapcsolataink azok a bőrszíneinken múlik.",
+    "hypothesis": "A megszólaló szerint az emberi kapcsolatok a bőrszínen múlnak."
+  },
+  {
+    "id": "71",
+    "premise": "Az biztos, hogy volt egy olyan ország, amelyik oly módon taktikázott, Törökország, hogy azt mondta, hogy meg akar állapodni, de alapvetően ugyanúgy nem akart megállapodni, mint ahogyan a kormányzati első félidőben az Orbán-kormány nem akart megállapodni. Azonban érezte a piaci kényszert a tekintetben, hogy pusztán ennek a híre megnyugtatólag hat az egyébként korábban ugyanolyan zavarokkal küzdő, hírzavarokkal küzdő Törökország esetében, mint amiről professzor úr beszélt az imént. Én nem hiszem, hogy a török utat járná a magyar kormány.",
+    "hypothesis": "A beszélő szerint a török utat járja a magyar kormány."
+  },
+  {
+    "id": "72",
+    "premise": "Ukrin Anikó, a Debreceni Váli István Református Cigány Szakkollégium igazgatója: -... annak a szakmai képzésnek, amit a szakkollégium szeretne átadni a hallgatóknak, van egy szerintem nagyon fontos részterület, ez a spirituális modul, ami - azt gondolom, hogy - az intézmény egyházi jellegéből fakad, nagyon fontosnak tartjuk azt, hogy megismerkedhessenek a keresztyén életszemlélettel.  Gyarmati Péter Riporter: -Azt nem hiszem el, hogy mind a tizenhat szakkollégista református vallású, vagy ez is fontos volt?",
+    "hypothesis": "Gyarmati Péter szerint mind a tizenhat szakkolégista református vallású."
+  },
+  {
+    "id": "73",
+    "premise": "Hány van olyan, amit most akarnak, most megszigorítani, ahogy olvasom így a jogszabályt, 15 napot lesz kötelező dolgozni. Nincsen semmi gond vele, nincsen semmi gond vele, dolgozni kell, munka nélkül nem lehet megélni, ezt én is vallom, csak akkor adjanak tisztességes munkát, meg tisztességes fizetést. Lehet, hogy azt mondják, hogy ez az öreg hetvenöt éves fejével már begyepesedett.",
+    "hypothesis": "A beszélő szerint mások szemében ő hetvenöt évesen már begyepesedett."
+  },
+  {
+    "id": "74",
+    "premise": "Elfogadom, elhiszem, hogy egy miniszerelnök is tévedhet, meg egy miniszter is, meg egy szakértő is tévedhet, csak mégis azt gondolom, hogy egy picit úgy tudomásul vesszük, hogy a nagyok tévedhetnek, a kicsik pedig kevésbé. Lehet, hogy azt fogjátok rá mondani, hogy nincs is más megoldás.",
+    "hypothesis": "A beszélő úgy gondolja, hogy az emberek szerint nincs más megoldás."
+  },
+  {
+    "id": "75",
+    "premise": "Riporter: Hanem mi lesz, hogy képzeled el? Nánási Andrea Bianka: Hát, még nem tudom én sem. Riporter: Lesz férjed, lesznek gyerekeid, és azt gondolod, hogy ezek a dolgok fognak már lekötni Téged, és nem lesz időd, energiád a világgal foglalkozni?",
+    "hypothesis": "A Riporter szerint Nánási Andrea Biankának nem lesz ideje és energiája foglalkozni a világgal."
+  },
+  {
+    "id": "76",
+    "premise": "Riporter:- Mióta csinálja ezt? Kiss Mihály: - Négy éve, négy évvel ezelőtt kezdtem. Riporter: - És amikor elkezdte, akkor mi motíválta, mert hogy manapság már nem hiszem, hogy sok gyerek vagy sok fiatal álmodik arról, hogy szappankészítő lesz, hiszen a szappant készen lehet kapni, a boltba bemegyünk, van húsz-harminc-negyvenféle, hol mennyi.",
+    "hypothesis": "A Riporter szerint sok gyerek vagy sok fiatal álmodik arról, hogy szappankészítő lesz."
+  },
+  {
+    "id": "77",
+    "premise": "Riporter: - Vannak olyan vélemények, ami alapján vannak olyan doktorok, aki egy pecsét és 5.000 forint és már mehet is a jogosítványt kérő és már meg is van a jogosítvány. Nincsen alaposabb vizsgálat. Marcell: - Igen, biztos, hogy előfordul ilyen, kétségtelen, hogy nagy körültekintést igényel, de nem hiszem, hogy ennyire meg kéne ezt szigorítani, eddig is kikértük a szakorvosnak a véleményét, én nem hiszem, hogy ennek az általánossá tétele, egyértelműen hasznos lenne akár a közúti forgalom vagy a betegek részére. A cukorbetegséggel és a szívbetegséggel kapcsolatosan, nem hiszem, hogy feltétlen szakorvoshoz kellene küldeni a beteget, hiszen jól ismerjük a beteg állapotát.",
+    "hypothesis": "A beszélő szerint feltétlenül szakorvoshoz kellene küldeni a beteget."
+  },
+  {
+    "id": "78",
+    "premise": "Műsorvezető: - Azért még jó. Bauer Éva az Interpress magazin újságírója, mit gondol ezekről a visszajelzésekről, vagy viszontvádakról, hogy azért itt egy magazin felfújt olyan dolgokat, amiket akkor ezek szerint végül is a gyártók tudtak, határérték felett van kicsit, de azért még biztonságos, szóval, mit gondol? Bauer Éva: - -Azt gondolom egyébként, hogy egyrészt a bírósági ítélet, az ítélet. Tehát nem hiszem, hogy ezzel különösebben foglalkozni kellene.",
+    "hypothesis": "Bauer Éva szerint kell foglalkozni a viszontvádakkal."
+  },
+  {
+    "id": "79",
+    "premise": "Hát egyrészt ezeket fogjuk felülvizsgálni. Műsorvezető: - Mikorra lesz ez meg, hiszen azért ezekre a pénzekre bármilyen kisösszegekről, vagy nekünk innen Budapestről kis összegnek tűnő pályázatokról van szó, azért ezeket a pénzeket sok helyen nagyon várták, például falunapok megrendezésére. V. Németh Zsolt: - Nos, hát azért a falunapokra azt tudom mondani, hogy a felvezetéstől eltérően, nem hiszem, hogy veszélybe kerülnek a falunapok, elég jól ismerem a falunapok világát, és ez az Új Magyarország Vidékfejlesztési program népszerűsítő pavilonos megjelenés, ez eléggé idegenszerűen nézett ki.",
+    "hypothesis": "V. Németh Zsolt szerint veszélybe kerülnek a falunapok."
+  },
+  {
+    "id": "80",
+    "premise": "Tehát egyelőre az a dolgunk, hogy szorgalmasan gyűjtögessünk mint a méhecskék, és mire Viktória a műtőbe kerül, addigra mi helyzetbe kerüljünk. Riporter: - Elképzelhető -e ma Magyarországon az, hogy valakin, azért ne tudják végrehajtani ezt a műtét mert utána nincs hova mennie? DR.Zsigmond Arpád: - Viktória esete elég speciális, de nem hiszem, hogy teljesen egyedülálló lenne, és azt sem hiszem, hogy ez kimondottan csak a szívátültetésre vonatkozó beavatkozást érintené, gyógymódok szempontjából is az esélyegyenlőség sajnos ilyen alkalommal többször sérül.",
+    "hypothesis": "DR.Zsigmond Árpád szerint Viktória esete teljesen egyedülálló."
+  },
+  {
+    "id": "81",
+    "premise": "A klub jogosulatlanul szerepeltette Máté Pétert, a bolgárok elleni selejtezőben, amiért végül 15.000 eurós, nagyjából 4,3 millió forintos pénzbüntetést kapott. Szilágyi Sándor a DVSC cégvezetője így kommentálta az UEFA döntését. Szilágyi Sándor: - Örömmel fogadtuk a döntést, illetve bíztunk a humán döntésébe az UEFA-nak, hiszen voltak már erre példák, hogy más csapat is beleesett ugyanebbe a csapdába, de ettől függetlenül hibáztunk. Három nap van rá, hogy fellebbezhetünk, de nem hiszem, hogy fogunk fellebbezni, hiszen elfogadjuk.",
+    "hypothesis": "Szilágyi Sándor szerint fognak fellebbezni."
+  },
+  {
+    "id": "82",
+    "premise": "Elek László.: - És most fizika. Mókás eredmények születnek, amikor a komoly tudósok eljátszanak a környezetük adta lehetőségekkel. Egy matematikus például kiszámolta, hogy egy cipőt, amelyen hat pár lyuk van, hányféleképpen lehet befűzni. Amúgy 43 200 az eredmény, de nem hiszem, hogy érdemes mind a kipróbálni, mint ahogy azt sem tudom, hogy lesz -e valaha is tömeggyártása azoknak a ruhadaraboknak, amelyeket fizikusok terveztek, persze a legmodernebb technológiát felhasználva.",
+    "hypothesis": "Elek László szerint érdemes mind a 43 200-féle cipőfűzési módszert kipróbálni."
+  },
+  {
+    "id": "83",
+    "premise": "Orvosként, két társával április közepétől, egy hónapon át dolgozott Rocsuruban és környékén. \"A legtöbb esetben gyakorlatilag katonai sátrakban dolgoztunk és ezt úgy kell elképzelni, hogy vittük magunkkal, nemcsak a gyógyszereket és az orvosok felszerelést, hanem a székeket, az asztalt és ezeket a sátrakat is, amiket a katonák így egy óra alatt, vagy félóra alatt felállítottak, és azok alatt dolgoztunk, hogyha éppen esett az eső, akkor épp az esőtől védett, de ha sütött a nap és por volt, akkor kint ott a szabad ég alatt.\" Riporter: - Ahogy olvastam, ezen a területen, férges végtagok, AIDS-fertőzés, tehát olyan betegségek vannak, amelyekkel nem hiszem, hogy bárkinek könnyű foglalkoznia.",
+    "hypothesis": "A Riporter szerint a férges végtagokkal és az AIDS-fertőzéssel bárkinek könnyű foglalkoznia."
+  },
+  {
+    "id": "84",
+    "premise": "Tehát én azt gondolom, hogy a rasszizmus ebben egy bizonyos részt játszott, de nem feltétlenül száz százalékot. Riporter: - És mit gondol, a Fradi ez ügyben miért nem védte meg a játékost? George Hemingway, a Honvéd tulajdonosa: - Hogy igazságosak legyünk a Fradival, nem hiszem, hogy a Fradi, mint vezetőség, a Fradi, mint egyesület, gondolt arra, hogy ilyen fog történni.",
+    "hypothesis": "George Hemingway szerint a Fradi gondolt arra, hogy ilyen fog történni."
+  },
+  {
+    "id": "85",
+    "premise": "A férfi kézilabda bajnokságban Szeged - Mezőkövest 37:28, Eperjes - Csurgó 37:29. A női bajnokságban Győr - Vác 28:23, Ferencváros - Dunaújváros 34:24. a zöld-fehérek legeredményesebb játékosa a 8 gólos Kenyeres Fanni volt. Kenyeres Fanni: - Jó kis mérkőzést játszottunk, van még mit javítanunk a védekezésünkön, bízom benne, hogy a Zácsik Szandra minél előbb újra közöttünk lesz, és ő is fogja tudni erősíteni a csapatunkat, nagyon sok lerohanás volt, és a szélsők feladata rohanni, talán ebből kifolyólag lőttem a legtöbb gólt, de nem hiszem, hogy nagyon nagy jelentőséget kellene ennek nyilvánítani, mindenki ment, mindenki próbálta tenni a dolgát, és ez így van jól.",
+    "hypothesis": "Kenyeres Fanni szerint nagy jelentőséget kell annak tulajdonítani, hogy ő volt a legeredményesebb játékos."
+  },
+  {
+    "id": "86",
+    "premise": "\"Én nem hiszem, hogy ez csak az étteremnek köszönhető, hanem ez köszönhető annak is, hogy a Balaton déli partja most az elmúlt években sorra adta az év borászait, az év bortermelőit és tényleg ezek az ínyenc vendégek ezek felfedezték a Balaton déli partját, és egyre többen jönnek.\" Műsorvezető: - De a tehetősebbek indulnak gasztroturistának? \"Én nem hiszem, hogy ez a tehetősebbek köre, ez inkább a középosztály.",
+    "hypothesis": "A beszélő szerint a tehetősebbek köre indul gasztroturistának."
+  },
+  {
+    "id": "87",
+    "premise": "Kövesdi Zsuzsa Riporter: - Miután tudjuk, hogy tíz ember közül körülbelül kilencen már saját anyanyelvükön olvashatják a Bibliát vagy annak valamely részletét, úgy érezzük, hogy birtokon belül vagyunk. Ezért minden kiadvány, ami megjelenik, egy kicsit fölveti azt a kérdést is, hogy mi újdonságot lehet ennyi idő múlva a világ legismertebb könyvével kapcsolatban még nyilvánosságra hozni. Pecsuk Ottó református lelkész: - Én egyáltalán nem hiszem, hogy ne lehetne újat mondani a Bibliával kapcsolatban, sőt inkább az a tapasztalat, hogy az embereknek a Biblia ismerete illetve a Bibliával kapcsolatos általános ismerete, tehát nemcsak a tartalmi dolgok, hogy mi van a Bibliában, hanem egyáltalán a Biblia milyen könyv, hogy keletkezett, hogy őrződött meg évszázadok során, ma milyen formában létezik, ma hány nyelven hozzáférhető, stb.",
+    "hypothesis": "Pecsuk Ottó szerint nem lehet újat mondani a Bibliával kapcsolatban."
+  },
+  {
+    "id": "88",
+    "premise": "Szilvia- Jól felöltöztek? Edit: -Hát igen, én nagyon fázom és hát szerintem még mindig, nem azért, mert itt bent hideg van, hanem mert kint átfagytam. Edit: -Én nem hiszem, hogy ennyi ember nem fűtené be a termet.",
+    "hypothesis": "Edit szerint ennyi ember nem fűtené be a termet."
+  },
+  {
+    "id": "89",
+    "premise": "Én semmiképpen nem sértődnék meg, ha külföldi szakember állna a szövetségi kapitányi poszton vagy adott esetben ez a számomra nem teljesen érthető, dehát biztos logikus fejlesztési igazgató. Egyébként a futballt a klubokban kell csinálni, nem hinném, hogy a szövetségben. És hogy ha a szövetség nem tud akkora pénzt adni alsóligás csapatoknak, ha nem is a profiknak, mint azt Hollandiában vagy itt-ott teszik, akkor nem hiszem, hogy túlzottan bele tud szólni a klubok életébe.",
+    "hypothesis": "A beszélő szerint a szövetség túlzottan bele tud szólni a klubok életébe."
+  },
+  {
+    "id": "90",
+    "premise": "Műsorvezető: - Még egyszer kérdezem, akkor önök a brit különutasságot járhatónak látják, vagy azt ajánlják, azt tanácsolják majd ebben a parlamenti vitában Orbán Viktor , illetőleg a kormányzó pártok számára? Vona Gábor: - Hát hozzáteszem egyébként, Orbán Viktor napirend előtti felszólalásában maga is azt mondta, hogy meg kell fontolni a brit különutasságot. Ez én is így gondolom, de én nem a brit utat tartanám helyesnek, hanem a magyar utat. Én hiszem azt, hogy van egy magyar út, hiszem azt, hogy az Európai Uniónak ez a fajta irányváltása, vagy ez a fajta célja, terve ez meg fog bukni, és nem hiszem, hogy Magyarországot egy süllyedő hajóra kellene felsegíteni.",
+    "hypothesis": "Vona Gábor szerint Magyarországot egy süllyedő hajóra kellene felsegíteni."
+  },
+  {
+    "id": "91",
+    "premise": "Tehát én most ez nemzetnek szereztem és így a szörf szövetség kiírása által nekünk még válogatózni kell a következő világbajnokságon és még lesz franciaországi verseny áprilisban. De úgy érzem, hogy nem nagyon fog ő veszélyeztetni, sőt egy plusz motivációt is ad, hogy azért nem dőlhetek teljesen hátra. De úgy gondolom, hogy innentől kezdve tényleg csak Londonra fogok koncentrálni és picikét azért nyugodtabban készülők az olimpiára. Bera Emese Riporter: - És maradsz most még Ausztráliában, hiszen Magyarországon jelen pillanatban nem hiszem, hogy nagyon hol tudnál szörfözni.",
+    "hypothesis": "Bera Emese szerint a riportalany tudna Magyarországon szörfözni."
+  },
+  {
+    "id": "92",
+    "premise": "Riporter: - A Magyar Szerencsejáték Szövetség a szerencsejátékban dolgozó cégek érdekképviseletét látja el. Elnökük, Sejber István felháborítónak tartja a népszavazást, hiszen a játékautomaták üzemeltetése állami bevételt is jelent, használatára pedig senkit nem kényszerítenek. Sejber István, elnök, Magyar Szerencsejáték Szövetség: - Magáról az ügyről az a véleményünk, óriási károkat okozna bármilyen tiltás ebben a kérdésben. Lenne kb. egy olyan 100 milliárdnyi adóbevétel kiesés költségvetésből, ami hát szintén nem hiszem, hogy túl jó lenne.",
+    "hypothesis": "Sejber István szerint nagyon jó lenne a 100 milliárdnyi adóbevétel-kiesés."
+  },
+  {
+    "id": "93",
+    "premise": "Riporter (Balogh Balázs): - Mik lehetnek ezek a hibák? Szentgáf Károly (Válaszút Alapítvány): - Én leginkább hibának azt vélem, ha pont ettől tekintenek el, és azt gondolja valaki, hogy ez a végső és egyedüli megoldás. Vagy hogy ez elegendő megoldás, a három és hat hét közötti időszak, amíg egy kórházi kezelés, amiből áll, nem hiszem, hogy ez elegendő, de viszont elengedhetetlennek gondolom.",
+    "hypothesis": "Szentgáf Károly szerint a három és hat hét közötti kórházi kezelés elegendő."
+  },
+  {
+    "id": "94",
+    "premise": "Riporter: - Végül is meg lehet állapítani, hogy a lakásárak után, a bérleti díjak is estek egy kicsit, vagy az albérleteknél ezt nem mondhatjuk? Kárász Edit: - Pont van egy nagyon kedves idős hölgy, aki hozzánk újra beadta lakását, mert a tavalyi albérlőjével megszenvedte. Ki tudjuk adni ugyanazon az áron is. Ha korrekt az ár, akkor nem hiszem, hogy olyan nagyon visszaesne.",
+    "hypothesis": "Kárász Edit szerint nagyon visszaesne a bérleti díj."
+  },
+  {
+    "id": "95",
+    "premise": "Kádár Dóra tudósító: - A kamaszkor önmagában is nehéz időszak, de sok tragédia elkerülhető volna, mert a fiatalok nem a halált keresik, csak több figyelmet szeretnének - mondja Németh Zsolt kriminológus. Németh Zsolt: - Csak elképzeli, hogy ez milyen elégtétel volna a számára. Hogy aztán a halál mit jelent, ezt nem hiszem, hogy átgondolja.",
+    "hypothesis": "Németh Zsolt szerint a kamasz átgondolja, hogy a halál mit jelent."
+  },
+  {
+    "id": "96",
+    "premise": "Valami eléggé homályos évforduló ez, a lengyelek ellen népi összefogás. Riporter: - A XVII században. Nemes Gábor : - Igen, igen, tehát nem hiszem, hogy nagyon megmozgatná az oroszokat.",
+    "hypothesis": "Nemes Gábor szerint a lengyelek elleni népi összefogás évfordulója nagyon megmozgatná az oroszokat."
+  },
+  {
+    "id": "97",
+    "premise": "Nothof Ingrid volt bűnügyi újságíró: - Igen, igen, igen. Tehát nem tudom, ezzel nagyon érzékenyen kell bánni, de ha ezzel bárkinek tudunk segíteni, akkor ez természetesen fel fog vetődni. Nekem még megvan az a fajta kötődésem is, hogy amuikor megtörtént Móron ez a bűncselekmény, akkor én nagyon sokat foglalkoztam az üggyel még mint bűnügyi újságíró, gyakorlatilag találkoztam minden hozzátartozóval és ahogy a könyvben is írom, én soha nem fogom elfelejteni annak a nagymamának a könnyes szemét, akinek az egyszem unokáját ölték meg, aki egy helyettesítő pénztáros kislány volt. Nem tudom... tehát én találkoztam tényleg a hozzátartozókkal is és én nem hiszem, hogy ők bármikor is ki fogják ezt heverni.",
+    "hypothesis": "Nothof Ingrid szerint a hozzátartozók valamikor ki fogják heverni a móri bűncselekményt."
+  },
+  {
+    "id": "98",
+    "premise": "Frech Ágnes: - Tulajdonképpen a szabálysértésnek az adekvát büntetése az a pénzbírság. Riporter: - Egyébként mekkora összeg? Frech Ágnes: - A hatályos szabályból indultam ki, és az akkor, amikor én ezt 2006-ban elkészítettem, akkor a 150.000 forint volt, de ezen az összegen lehet vitatkozni, tehát nem hiszem, hogy ennek van jelentősége, és a fiatalkorúak esetében, ott ugyanis korlátozott lehetőségek vannak a pénzbírság kiszabására.",
+    "hypothesis": "Frech Ágnes szerint a fiatalkorúak megbírságolásánál van jelentősége a konkrét összegnek."
+  },
+  {
+    "id": "99",
+    "premise": "Riporter- Nem ön a tanácsadó, nem ön a főtanácsadó ebben az ügyben. A végrehajtó Boros Zoltán, mit mond?  Boros Zoltán: - Én az itt hallottakhoz ugye nagyon lényeges, hogy ugye mit mond erről a végrehajtó. Ez a sok hirdetés, ami hozza egymás után bajba az embereket, ez sajnos csak a végrehajtói társadalmat gazdagítja, nem hiszem, hogy a végrehajtói társadalom rá van arra szorulva, hogy ebből gazdagodjon, de azt mindenképpen meg kell mondani, hogy olyan túlterheltség van már a végrehajtásokban is, hogy ezt kellene észrevennie az embereknek...",
+    "hypothesis": "Boros Zoltán szerint a végrehajtói társadalom rá van arra szorulva, hogy emberek bajba juttatásából gazdagodjon."
+  },
+  {
+    "id": "100",
+    "premise": "Gatter László: - Ezzel is úgy gondolom, hogy talán adósok is vagyunk, hiszen ezek olyan szabályok, amelyeket nem biztos, hogy ismernek, még akár a jogászok sem, nem hogy a laikus állampolgárok. Műsorvezető: - Sőt mi több, ezt akartam mondani, mert hogy ilyenek ugye, hogy a felelősség általános szabályai, aztán felsőbb jogi szabályok, tehát olyanok is vannak, amivel ha lehet azt mondani, a saját szakmája ellen beszél ebben a könyvben. Gatter László: - Én nem hiszem, hogy nekünk bármit takargatni kellene, tehát nem is beszélhetünk saját magunk ellen, sőt nagyon fontos, hogy ezek a szabályok össze legyenek gyűjtve.",
+    "hypothesis": "Gatter László szerint nekik van takargatnivalójuk."
+  },
+  {
+    "id": "101",
+    "premise": "Báthory Róbert tudósító: - A kormányzat és az ágazat szakemberei már cselekvési tervek készítettek, hogyan lehetne korszerűsíteni a távhőszolgáltatást Magyarországon. Ehhez a teljes rendszert át kellene alakítani, ami nem kevés pénz - mondja Fekete Csaba, a Távhő Szövetség elnöke. Fekete Csaba: - Hát én nem hiszem, hogy a földgáz függőséget egyik pillanatról a másikra, vagy akár tíz éven belül is alapvetően meg lehet változtatni.",
+    "hypothesis": "Fekete Csaba szerint a földgázfüggőséget egyik pillanatról a másikra, vagy akár tíz éven belül is alapvetően meg lehet változtatni."
+  },
+  {
+    "id": "102",
+    "premise": "P. Fülöp Gábor Riporter: - Említette, hogy lélekben már hangolódott vagy legalábbis vágyódott arra, hogy az Európa bajnokságon a kontinens viadalon is fújhassa a sípot. Ez azt jelenti, hogy az utóbbi időben egyébként keményebben is készült vagy majd csak mostantól, hogy megjött az örömhír?  Attila: - Igazából nem hiszem, hogy annyira keményebben kellene készülni, hiszen a mi munkánk is olyan, mint a sportolóké, hogy folyamatosan kell a top teljesítményt hozni minden héten, hiszen a futball az olyan, hogy minden hétvégén kell bizonyítani és nem csak egy nagy versenyre kell úgymond felszívni magunkat. Úgyhogy nem hiszem, hogy sokkal többet tudnék dolgozni, hiszen most is mindent megteszünk annak érdekében, hogy minden hétvégén, akár itt az MB1-ben is jól teljesítményt nyújtsunk, hiszen mi sem tehetjük azt meg, hogy mondjuk az MB1-es meccseket ne vennénk komolyan és ne tennénk oda magunkat.",
+    "hypothesis": "A beszélő szerint a jelenleginél sokkal többet tudna dolgozni."
+  },
+  {
+    "id": "103",
+    "premise": "Összességében azt tartom rossznak, hogy a magyar kormány még mindig abban gondolkodik, hogy tárcáktól nagyon kemény elvonás, ami nyilván szociális szférát fogja érinteni, az egészségügyet érinteni fogja, oktatásügyet érinteni fogja, és emellett meg közösségi közlekedés, tehát vasút, volánbuszok közlekedése, és önkormányzatoktól összességében 160 milliárdot elvesz. Riporter: - Jó, de azt is vitatja a Fidesz, hogy mind a közösségi közlekedés jelenlegi rendszere, mind pedig az önkormányzati rendszer pazarló? Varga Mihály: - Nézze, biztos, hogy a rendszer nem tökéletes, de nem hiszem, hogy egy válság kellős közepén, azzal teszünk jót a vasúti közlekedésnek, ha onnan 40 milliárdot elvonunk.",
+    "hypothesis": "Varga Mihály szerint egy válság kellős közepén azzal teszünk jót a vasúti közlekedésnek, ha onnan 40 milliárdot elvonunk."
+  },
+  {
+    "id": "104",
+    "premise": "\"Maga a szobor egy értéket képvisel, kell neki egy olyan helyet keresni, ahol fel lehet állítani, ahol az orvosi tevékenységével kapcsolatban meg tudunk emlékezni, hiszen be kell ismerni, hogy a bábaképző vonatkozásában olyan dolgokat tett le, amik arra predesztinálják az egész szoborelhelyezési históriát, hogy mondjuk egy kórházba, a szülészeti klinika előtt nagyon jó helyen lenne.\" \"A legerősebben tiltakozunk ez ellen, hogy ezt a szobrot bárhol máshol felállítsák. Egy ilyen embernek nem hiszem, hogy emlékmű kellene, hogy legyen a városban.\"",
+    "hypothesis": "A beszélő szerint az emlékműnek helye van a városban."
+  },
+  {
+    "id": "105",
+    "premise": "Reininger Róbert: - Azokon a területeken, ahol a talaj viszonylag vastag keresztmetszetben elszennyeződött, ott valószínűleg talajcserét kell végrehajtani. Az első és a legfontosabb, hogy össze kell gyűjteni a szétszóródott, szétfolyt veszélyes hulladékot, és utána vizsgálni kell a talajt, talajvizet, hogy mi az, amit azonnali intézkedésként meg kell valósítani. Első és legfontosabb még egyszer összegyűjteni azt, ami kikerült, és megfelelően biztonságba helyezni. A második tétel az, hogy meg kell vizsgálni, hogy hol vannak azok a területek, ahol viszonylag mélyen bekerült a talajba, esetleg a talajvízbe. Én ezt nem hiszem, hogy bekerült volna a talajvízbe.",
+    "hypothesis": "Reininger Róbert szerint a veszélyes hulladék bekerült a talajvízbe."
+  },
+  {
+    "id": "106",
+    "premise": "Műsorvezető: - Hát vegyük sorba. Ami számomra az egyik legérdekesebb, hogy azt állítják a szlovák politikusok, hogy az Unió alapszerződését is sértheti, ez miben? Vízy Balázs: - Én nem hiszem, hogy az Unió alapszerződését ez sértené.",
+    "hypothesis": "Vízy Balázs szerint az említett dolog sértené az Unió alapszerződését."
+  },
+  {
+    "id": "107",
+    "premise": "Műsorvezető: - Hallotta, amiről beszélgettünk. Sajnos gondolom én, mondom ezt a sajnost, abszolút egyetértett vele, amit eddig mondtunk? Hermann Zoltán: - Igen, igen, különösen a gyakorló pedagógusok mondtak. Azért annyit én ehhez az ösztöndíjrendszerhez hozzátennék, hogy szerintem azért a béreknek van itt kulcsszerepe, tehát én nem hiszem, hogy egy tanárképzésben bevezetett ösztöndíjrendszer, az túl nagy változást önmagában képes lenne generálni a jelentkezők körében, és azért itt azt is figyelembe kell venni, hogy nincs arra garancia, hogy akik élnek egy ilyen ösztöndíjrendszer lehetőségeivel, azok majd ténylegesen tanárként fognak elhelyezkedni.",
+    "hypothesis": "Hermann Zoltán szerint egy, a tanárképzésben bevezetett ösztöndíjrendszer önmagában nagy változást képes lenne generálni a jelentkezők körében."
+  },
+  {
+    "id": "108",
+    "premise": "Riporter: - Az embernek az az érzése, hogy az Egyesült Államok, illetve a nagy európai országok vezetői valamilyen formában megállapodtak a szerb fegyveres erők vezetőivel, hogy semmilyen komoly reakció nem lesz Koszovó függetlenségének kikiáltásakor, és maradnak ezek a tüntetések, amelyek levezetik a feszültséget, különböző drámai kiáltások és jelszavak hangzanak el, de a valóságban nem történik semmi, mert tulajdonképpen a szerb vezetés is elfogadta, hogy Koszovó függetlenségét már nem tudja megakadályozni. Elfogadta, de ezt sohasem fogja bevallani, és megpróbál jogi eszközökkel élni. Sajnos attól tartok, hogy nem a koszovói albán konfliktus lángol majd fel, nem hiszem, hogy itt háború vagy komoly incidens lenne.",
+    "hypothesis": "A beszélő szerint Koszovóban háború vagy komoly incidens van készülőben."
+  },
+  {
+    "id": "109",
+    "premise": "Bugár Béla: - Nézze, én nem hiszem, hogy a szlovákiai magyaroknak, de azzal, hogy a HÍD munkáját nehezíti, azzal természetesen minimum azt a 180-200 ezer szlovákiai magyar választónak az érdekeit sérti, akik a HÍD-ra szavaztak. Műsorvezető: - És nem is érzi jogosnak egyébként, hogy választójogot kapjanak a kettős állampolgárok? Bugár Béla: - Nézze én megmondom őszintén, kezdettől fogva, amikor ez először elhangzott, én azt mondtam, hogy nem hiszem, hogy a szlovákiai magyarokat bele kellene vonni egy határon túli csatározásba, mert egy olyan csatározásba, amikor mondjuk a magyarországi politikai pártok, akár átjönnek kampányolni ide Szlovákiába, és ugye itt elhangzik egy keményebb mondat, utána két hétig kapjuk a hideget-meleget azért, mert valaki nem vigyázott arra, hogy mit mond.",
+    "hypothesis": "Bugár Béla szerint a szlovákiai magyarokat bele kellene vonni egy határon túli csatározásba."
+  },
+  {
+    "id": "110",
+    "premise": "Gálik Zoltán: - Nem hiszem, hogy sok minden megváltozna ezek után. az biztos, hogy ez az eset ez rávilágított arra, hogy a modern technikai körülmények között, hatalmas mennyiségű információt lehet kinyerni egy-egy olyan rendszerből, ami tárolja ezeket a diplomáciai iratokat. Műsorvezető: - És akinek van hozzáférése, már pedig ezek szerint sokaknak van hozzáférése. Gálik Zoltán: - Igen, nagyon sokaknak van hozzáférése természetesen ehhez, megfelelő jogosultsági szinttel, itt ugye egy technikai és egy hozzáférési problémával is szembesülhetett az Amerikai Egyesült Államok, de nem hiszem, hogy maga a diplomácia és a diplomáciának a kivitelezése az óriási nagy problémákkal nézne szembe...",
+    "hypothesis": "Gálik Zoltán szerint alapvetően nagy változásokon menne majd át ez a rendszer."
+  },
+  {
+    "id": "111",
+    "premise": "Virányi Zsolt .: - Most kimondva, kimondatlanul fel kell jutni a Ferencvárosnak, nincs\"B\"variáció. Csank János vezető edző, FTC.: - Az angoloknak van\"B\"variációjuk, ők nem mondták azt, hogy most mindenáron föl kell kerülni. Biztos azt gondolják, hogy föl kéne kerülni, de ahogy itt nyilatkoztak, meg beszéltünk is itt, egyáltalán nem úgy nézett ki, hogy most aztán itt szétverjük az egész brigádot, ha nem kerülünk föl, hanem azt mondták, hogy kérdezték (?) a\"B\"tervet, hogy mi van akkor, ha nem kerülünk föl. Én mondtam, hogy most hát én\"B\"tervet nemigen tudok mondani, mert nekem nem hiszem, hogy lesz\"B\"tervem, de nem úgy nézett ki, hogy most aztán itt kötelező.",
+    "hypothesis": "Csank János szerint lesz \"B\" terve."
+  },
+  {
+    "id": "112",
+    "premise": "Név nélkül.: - Lehet, hogy éppen elküldöm majd valamit vásárolni, hogy menjen. Domonkos István.: - Egyébként jó lenne az, hogyha a Polgármesteri Hivatalról levennék, illetve az önkormányzatról ezt a terhet és hát valóban egy civilszervezet végezné a jövőben ezeket a feladatokat, tehát az idősek segítő szolgálatát. Szebellédi Zoltán polgármester, Újkígyós.: - Elsősorban nem hiszem, hogy az önkormányzati kötelező feladatokat kellene átadni, egyébként a mazsolázást nem pártolnám.",
+    "hypothesis": "Szebellédi Zoltán szerint az önkormányzati kötelező feladatokat kellene átadni."
+  },
+  {
+    "id": "113",
+    "premise": "Hiszen aki általában a kajak egyes ezer méteren győzni tud ő a kajak király és Kökény Rolandnak egyre jobb a hajrája. Jön fölfele és most már ő vezet. Megelőzi Robert Elránt és a hármas pályán Kökény jól tartja magát. De ott bent középen jól megy az új zélandi Foi és az argentin Havier Korea. Kökény Rolandnak kellene hajráznia, de nem hiszem, hogy be tudja fogni az új zélandi Foit.",
+    "hypothesis": "A beszélő szerint Kökény Roland be tudja fogni az új zélandi Foit."
+  },
+  {
+    "id": "114",
+    "premise": "Riporter: - Esperes úr, még él a remény, hogy valamikor lesz még egy újabb Bözödújfalu? Szombatfalvi József, székelykeresztúri unitárius esperes: - A történelem arról szól, hogy falvak újjászülettek. Az a Bözödújfalu többet nem lesz. Akik itt éltek évszázadokon keresztül és beleszülettek abba a csodálatos örökségbe, ami a bözödújfalvi türelem, a másság elfogadása volt, az öt felekezet bántatlanul élhetett egymás mellet, egymás szomszédságában, vagy a hat féle nemzetiségű nép úgy élhetett, hogy én nem hallottam soha, hogy valaki megbántotta volna a másikat.",
+    "hypothesis": "Szombatfalvi József szerint valaki megbántotta a másikat Bözödújfalun."
+  },
+  {
+    "id": "115",
+    "premise": "Riporter: - Ön szerint, hogyan kell most Thaiföldre tekinteni, egy politikailag stabil országra, vagy épp ellenkezőleg egy politikailag instabil országra? Balogh András: - Hadd osszam fel ezt a választ, az egyébként nagyon rafinális és honfitársaink számára is fontos kérdésre. Az első az, hogy magyar turistákat, kereskedőket vagy más hivatalos ügyben járókat, semmiféle veszély nem fenyegeti Thaiföldön, sem a régebbi tüntetések során, amikor a Tacsin ellen léptek fel nagy számban az utcai harcosok, sem most. ÉN nem tapasztaltam azt és soha nem hallottam, hogy külföldiekre vadásztak volna, vagy külföldiek akár véletlen is áldozatává váltak volna a különböző tömegmozgalmaknak.",
+    "hypothesis": "Balogh András szerint Thaiföldön külföldiekre vadásznak."
+  },
+  {
+    "id": "116",
+    "premise": "SP: - Jó napot kívánok. Hát tulajdonképpen hogyha úgy tetszik, ez egy gyilkosság. És egy teljesen értelmetlen történetről van szó. Hát, én az elmúlt 20 évben nem hallottam még ilyen esetről, hogy nyíllal kölyök gólyákat vadásztak volna le, merthogy ugye az utóbbi időkben, amikor valamilyen madárral kapcsolatos negatív hírt hallottunk, az általában arról szólt, hogy vagy a sólymokat vagy a sasokat megmérgezték, vagy szerencsétlen állatokat ugye állandóan veszélyezteti, főleg ugye a nagytestű madarakat az, hogy a szigeteletlen villanyoszlopokra hogyha rászállnak, akkor gyakorlatilag szénné égeti őket.",
+    "hypothesis": "A beszélő szerint nyíllal kölyök gólyákat vadásztak le."
+  },
+  {
+    "id": "117",
+    "premise": "Szendrőrát polgármestere Joó Istvánné felháborítónak tartja a szomszéd település vezetőjének kijelentését. Joó Istvánné: - Több évtizede itt élek és itt semmilyen ilyen jellegű információt nem kaptam a háziorvostól és a védőnőtől sem. DR.Dacher Pier, 13 éve háziorvos Szendrőrádon, ő még nem hallott és nem látott olyat, hogy valaki szándékosan okozott volna kárt a magzatnak.",
+    "hypothesis": "DR.Dacher Pier szerint valaki szándékosan kárt okozott a magzatnak."
+  },
+  {
+    "id": "118",
+    "premise": "Pilisi Csenge Riporter: - A kilakoltatott családok között csak romák vannak. Baranyi Lajos, a Hatvani Kisebbségi Önkormányzat elnöke.  Baranyi Lajos, a Hatvani Kisebbségi Önkormányzat elnöke: - Én szerintem én még nem hallottam, hogy magyarokat kiraktak volna, mert akkor tudomásomra jutna az egész dolog, én csak romákról tudok a kilakoltatással kapcsolatba!",
+    "hypothesis": "Baranyi Lajos szerint voltak magyarok, akiket kilakoltattak."
+  },
+  {
+    "id": "119",
+    "premise": "Bús Szilveszter: - Utórengések beszoktak következni ilyenkor, így van. Riporter:- Indonéziának ki mindenki ajánlott fel milyen segítséget, és élnek -e vele?  Bús Szilveszter: - Az indonéz elnök tegnap jelentette be, hogy el fogadnak külföldi segítséget, több ország tett már felajánlást, úgy tudom, hogy Japán már a helyszínen van, talán hallottak róla, hogy a magyar kormány is döntést hozott, segítségnyújtásról.",
+    "hypothesis": "Bús Szilveszter suerint a magyar kormány is döntést hozott a segítségnyújtásról."
+  },
+  {
+    "id": "120",
+    "premise": "Az egyház történetében és történelmében mindig is voltak ilyen hullámos időperiódusok, amikor több szerzetes volt, és kevesebb szerzetes. Tehát szerintem a II. Vatikáni Zsinat utáni nagy krízis oda vezetett, hogy sokkal tudatosabban vállalják ma a fiatalok, vagy középkorúak a szerzeteséletet, tehát kitolódott a döntés ideje egy az egyben, tehát valamikor még a '60-as években úgy volt, hogy 1, 11, 12 éves korban döntöttek a fiatalok, hogy elmentek ilyen speciális kollégiumokba, kisszemináriumokba és akkor ott nevelődtek végig. És én abszolút nem félek attól, hogy a szerzetesélet, mint olyan, eltűnne vagy csak a veszélye is fennállna.",
+    "hypothesis": "A beszélő szerint a szerzetesélet, mint olyan, el fog tűnni."
+  },
+  {
+    "id": "121",
+    "premise": "Elsősorban szimbolikus gesztusnak tartom. És kevesebb, más, politikai, gazdasági, demográfiai következménye van ennek, mint a szimbolikus jóvátétele annak, ami történt. Önhibánkon kívül. Mert a mostani nemzedékek nem hibásak azért, hogy mi történt, 1918-ban, vagy később. Én ezért, nem félek attól, hogy ez, az elvándorlást gerjeszti.",
+    "hypothesis": "A beszélő szerint a korábbi nemzedékek hibái gerjesztik az elvándorlást."
+  },
+  {
+    "id": "122",
+    "premise": "Riporter: - Na de hogy ha ezeket a gondolatait egy politikus hallja, vagy több politikus hallja, akkor azt mondja, hogy oh, milyen igaza van ennek az embernek, dehogy adunk mi kultúrára egy fillért is. Öntevékenykedjenek, terjesszék maguk között, és aztán a pénzzel majd valami okosat fogunk csinálni. B.Z.: - Nem fogják ezt soha megtenni a politikusok, mert sokkal nagyobb érdekük fűződik ahhoz, hogy finanszírozzák azt a kulturális tevékenységet, amelyik őket felettébb kiszolgálja. Úgyhogy én nem félek attól, hogy a politikusok ezt eldobják.",
+    "hypothesis": "A beszélő szerint a politikusok abbahagyják a kulturális tevékenységeket."
+  },
+  {
+    "id": "123",
+    "premise": "Itt az MKP, nagyon erős, hiszen két, Európai Uniós képviselővel rendelkezik. A másik oldalon ugye, az állami szférát kihagyva, mind a megyei képviselete, nagyon erős az MKP-nak. Ez hatásos segítséget tud nyújtani, a helyi szerveződéseknek, és kezdeményezéseknek. Komoly kooperációt lehet majd kezdeni, az elkövetkező időbe. És nem félek attól, hogy ne lehetne valami, jó eredményt produkálni.",
+    "hypothesis": "A beszélő szerint nem lehet jó eredményt produkálni."
+  },
+  {
+    "id": "124",
+    "premise": "Forrai Mária: - Az óriási tömeg miatt a borászoknak csak pár perc idejük volt számomra. Balassa István és Szilágyi László tokai borászok. Balassa István: - Én nem félek attól, hogy Magyarország elveszítené azt a pozícióját, hogy jó bort tud készíteni.",
+    "hypothesis": "Balassa István szerint Magyarország elveszíti azt a pozícióját, hogy jó bort tud készíteni."
+  },
+  {
+    "id": "125",
+    "premise": "Szerintem, ez egy tévhit, hogy nem jól van kezelve a szőlőterület, ugyanis a kivágásokat azok részesítik előnyben, akik nagyobb mennyiségeket termeltek, és valószínűleg azok fogják hamarabb feladni a küzdelmet, akiknek nem annyira versenyképes a szőlőterületük. Tehát ez egyfajta átrendeződés a piacon és a csökkenés az valószínű a gyengébb területek javára történt meg, tehát én nem félek attól, hogy Magyarország ezáltal elveszítené azt a pozícióját, hogy jó bort tud készíteni.",
+    "hypothesis": "A beszélő szerint Magyarország elveszíti azt a pozícióját, hogy jó bort tud készíteni."
+  },
+  {
+    "id": "126",
+    "premise": "O. V.: - Kezdjük ott, hogy Magyarország egy olyan ország, amely egyre nyilvánvalóban a félbe maradt rendszerváltás jeleit mutatja. Félbe maradt, mert Magyarországon a rendszerváltáskor azt a célt tűztük ki, hogy a szabadságot és a függetlenséget állítsuk helyre. A nemzet szintjén is, ami jótékony hatást gyakorolhatna a határon túli magyarokra, de a mindennapi élet szintjén is. Most a politikai szabadságot úgy, ahogy sikerült helyreállítani, hiszen erről beszélgetünk a stúdióban most, és nem félek attól, hogyha haza megyek, akkor este bőrkabátos emberek kopogtatnak, és érdeklődnek a politikai nézeteim felől.",
+    "hypothesis": "O. V. szerint este bőrkabátos emberek kopagtatnak majd és érdeklődnek a politikai nézetei felől."
+  },
+  {
+    "id": "127",
+    "premise": "Műsorvezető: - Hát ez majd fejlődik nyilván az idők folyamán. Hubay Imre, parancsoljon.  ifj. Hubay Imre: - Én nem félek attól, hogy mondjuk ezek a nagy áruházláncok elesnének valamiféle forgalomtól is, tehát nem sajnálom őket, mert pontosan tudom, hogy ők is sorban fognak állni majd beváltóhelyként, elfogadóhelyként.",
+    "hypothesis": "Hubay Imre szerint a nagy áruházláncok el fognak esni a forgalomtól."
+  },
+  {
+    "id": "128",
+    "premise": "A polgármesterek abszolút nem kérnek többet, mint amit a korábbi szándékokkal kinyilatkoztak a Vásárhelyi Terv kapcsán. H.T.A.: - Mészáros Zoltán, Tiszavárkony polgármestere.: Mészáros Zoltán, polgármester, Tiszavárkony: - Hát sajnos én úgy látom, hogy megtorpant a dolog.",
+    "hypothesis": "Mészáros Zoltán szerint megtorpant a dolog."
+  },
+  {
+    "id": "129",
+    "premise": "Kolumnai Csilla munkajogász: - A jogi szabályozás itt egyrészt azt követeli, hogy munkaviszonnyal kapcsolatos legyen. Pontosabban még csak ezt se, hanem munka- és életkörülményekkel kapcsolatos. A másik pedig az, hogy betarsanak bizonyos eljárási szabályokat. És én úgy látom, hogy ők azt betartották.",
+    "hypothesis": "Kolumnai Csilla szerint be lettek tartva az eljárási szabályok."
+  },
+  {
+    "id": "130",
+    "premise": "Kolumnai Csilla munkajogász: - NIncs határa. Na most itt is ugye látok egyfajta ügyeskedést. A sztrájk klasszikusan kárt okoz a munkáltatónak is. Ez a lényege, hogy a munkáltatót is egyrészt megfontolásra készteti előtte, meg közben is, meg utána is. De én itt úgy látom, hogy ez a munkáltató próbálja áthárítani a kárait másokra.",
+    "hypothesis": "Kolumnai Csilla szerint a munkáltató próbálja áthárítani a kárait másokra."
+  },
+  {
+    "id": "131",
+    "premise": "Kökény Mihály, az Országgyűlés Egészségügyi Bizottságának elnöke: - Nyilván attól függ, hogy az egészségügyi bizottságban megkapja -e ez a többségi támogatást. Én azt gondolom, hogy igen. Azért az elmúlt években fokozatosan többféle szigorítást tettünk ebben az ügyben. Emlékezzen rá, az első még elég puha törvény 1999-ben született, azóta többször szigorítottuk. Most én úgy látom, hogy Magyarország fontolva, és a fokozatosságot is figyelembevéve igyekezett a nem dohányzók védelmét biztosítani.",
+    "hypothesis": "Kökény Mihály szerint Magyarország igyekszik biztosítani a nemdohányzók védelmét."
+  },
+  {
+    "id": "132",
+    "premise": "Rodics Gergely: - Szerintem az egyik legnagyobb különbség az, hogy itt még oly erősek az emberekben élő és az emberek mindennapjaiban meg is jelenő hagyományok, mint Magyarországon. Nem beszélve a tájról. Tulajdonképpen a fejlesztés alapvető potenciáljai számosabbak, erősebbek. Inkább van mire építeni. Sajnálatos helyzet az, hogy itt Székelyföldön a modernizáció - én úgy látom, hogy nagyon az európai uniós csatlakozás időpontjához kötődik.",
+    "hypothesis": "Rodics Gergely szerint Székelyföldön a modernizáció nagyon az európai uniós csatlakozás időpontjához kötődik."
+  },
+  {
+    "id": "133",
+    "premise": "Van mit mondania, amit érdemes meghallgatnunk és megfogadnunk. Hogy látja egy brit a magyar mezőgazdaság esélyeit? Cziffra Szilvia kérdéseire válaszol: Richard Gütterboch mezőgazdasági szaktanácsadó: - Én úgy látom, hogy van néhány jó lehetőség a magyar mezőgazdaságban, illetve a magyar mezőgazdasági termékek értékesítése terén.",
+    "hypothesis": "Richard Gütterboch szerint van néhány jó lehetőség a magyar mezőgazdaságban, illetve a magyar mezőgazdasági termékek értékesítése terén."
+  },
+  {
+    "id": "134",
+    "premise": "Riporter (Várkonyi Benedek): - Elsősorban ez erkölcsi kérdés. Hogy lehet ilyen viszonyok közepette tiszta helyzetet teremteni, legalább tíz év még szükséges volna ehhez, és próbáltak törvényt hozni. Van ez, amit ügynöktörvénynek hívnak, és ez úgy, ahogy működik, jól, rosszul. Én úgy látom, hogy inkább rosszul.",
+    "hypothesis": "Várkonyi Benedek szerint az ügynöktörvény rosszul működik."
+  },
+  {
+    "id": "135",
+    "premise": "Az ő elkötelezettségük mennyiben változott meg? Dósa Ágnes, orvos jogász: - Nagyon háttérbe szorulóba van ez a jogintézmény. Nekem ez a tapasztalatom. Tehát az eszközök, amik az ő rendelkezésükre állnak és ezt most többféle értelemben is lehet érteni, tehát anyagilag is, a rendelkezésre állás idejük, az, amit tehetnek egy kórházban ez annyira kevés, hogy én úgy látom, hogy ez nem fejlődő, nem felszálló ágban van ez a jogintézmény.",
+    "hypothesis": "Dósa Ágnes szerint  nem felszálló ágban van ez a jogintézmény."
+  },
+  {
+    "id": "136",
+    "premise": "Ezt pedig paradisztikus lett volna.  Riporter: -  Az új politikai helyzet milyen taktikai, vagy stratégiai változtatásokat követel az MDF-tőL?   Katona Kálmán: - Azt követeli, hogy mindig készen legyen egy választásra, mert ahol ilyen történések előfordulnak, ott tényleg a puskaport szárazon kell tartani, gondolkodtunk azon, hogy az előre hozott választások kérdését feszegessük -e, de én úgy látom, hogy nem koalíciós válság, hanem koalíciós vezetői válság volt, tehát a miniszterelnök cserére szövetkeztek a koalíciós partnerek, és nagyon úgy látszik, hogy egy húron pendülnek.",
+    "hypothesis": "Katona Kálmán szerint nem koalíciós válság, hanem koalíciós vezetői válság volt."
+  },
+  {
+    "id": "137",
+    "premise": "Stefano Bottoni: - Tehát nem hagyja cserbe a kutatót, nem állít semmit, hanem gyakorlatilag a nyilvánosság elé tárja azt amit őriz. Műsorvezető: - Van még esély Ön szerint Magyarországon ilyen alapos, hiteles archívum létrejöttére? Stefano Bottoni:- Hát a Kenedi-bizottság anyagait olvasva úgy látom, hogy valószínűleg nem.",
+    "hypothesis": "Stefano Bottoni szerint nincs esély Magyarországon egy ilyen alapos archívum létrejöttére."
+  },
+  {
+    "id": "138",
+    "premise": "Krisztina: - Annak idején a civiltársadalom kibontakozóban volt, az emberek részt akartak venni a folyamatokban, lehetőséget láttak az igazi változásokban, érdeklődőek voltak és optimisták azzal kapcsolatban, amit tenni kell.Lehet, hogy néha túl picit optimisták és ezért a várakozásokból a lehetőségek felé is nőttek. Az azonban mindenképpen igaz, hogy pozitív volt a környezet, és így jóval többet tudtak megtenni, mint egyébként lehetett volna. Amikor viszont visszatértem, nem láttam ezt a felfokozott hangulatot, sőt amit érzékeltem az az volt, hogy a társadalom megosztott,... pedig .. összefogás kell, az, hogy felkészítsék Magyarországot a válság utáni időkre, amikor majd ez az ország kihasználhatja a benne rejlő lehetőségeket, én ugyanis úgy látom, hogy rengeteg olyan erőforrás van itt, amit eddig soha nem aknáztak ki teljesen.",
+    "hypothesis": "A beszélő szerint rengeteg olyan erőforrás van Magyarországon, amit eddig soha nem aknáztak ki teljesen."
+  },
+  {
+    "id": "139",
+    "premise": "Riporter: - Ezek a bonyolult ügyletek a mindennapokban úgy nyilvánulnak meg, hogy megint van mit csinálni, van munka? Varsányi Zoltán, egy londoni hitelminősítő munkatársa: - Igen. Pont ez az, hogy megint most úgy látom, hogy elég sok üzlet van.",
+    "hypothesis": "Varsányi Zoltán szerint mostanában sok üzlet van."
+  },
+  {
+    "id": "140",
+    "premise": "Riporter:- Mennyivel magasabbak? Pál Attila háziorvos: - Három évvel ezelőtt 1300-1400 forint óradíjak volta, ez úgy nagyjából egységes volt a pécsiekkel, többiekkel. Most ott 2000 forintot is meghaladják az ügyeleti óradíjak, nálunk jelen pillanatban 1350, illetve 1550 a hét. Miután három év alatt a bizonyos ügyeleti körök ennyivel többet adnak per óra a külsősöknek, ezért most én úgy veszem észre, hogy a gyermekorvosoknak a siklósi ügyeleti kedve némileg hogy is mondjam, lelohadt és itt a nyári szabadságolásokkal is összefüggésben mai nap úgy látom, hogy az augusztusi ügyeletben nem mindig fog gyermekorvos dolgozni és ezen túl ezt nem hívhatjuk gyermekorvosi ügyeletnek.",
+    "hypothesis": "Pál Attila szerint az augusztusi ügyeletben nem mindig fog gyermekorvos dolgozni."
+  },
+  {
+    "id": "141",
+    "premise": "Mindenképpen egy jó jelnek tartom azt, hogyha egyáltalán használnak fegyvereket, meg fejlesztenek, akkor nem az ilyen mindent betakarunk, aztán majd csak elpusztul az ellenség is, nagy járulékos veszteséggel járó eszközöket fejlesztik, hanem a célzottakat. Elek László: - Lehet -e arra számítani, hogy Anglia példáját a többiek is követik? Molnár György: - Én úgy látom, hogy az európai NATO tagállamok erre erősen hajlanak.",
+    "hypothesis": "Molnár György szerint az európai NATO tagállamok erősen hajlanak arra, hogy Anglia példáját kövessék."
+  },
+  {
+    "id": "142",
+    "premise": "Tehát ha úgy tetszik, a felmérés, a tudományos megközelítés is arról szól, hogy bizony ezek az esztendők agrártűntetésekkel, bizonyos agrárágazatoknak a tönkremenetelével, bizonyos egzisztenciák tönkremenetelével zajlanak. De így kell ennek zajlania, ahogy most ez zajlik? Lánszki Imre: - Hát én nem vagyok klasszikus értelemben véve agrárpolitikus. Én úgy látom, hogy azért vannak olyan ágazatok, mint a tejtermelés vagy pedig a sertéságazat, ahol eleve tudtuk, jelezték is, hogy itt nem kapunk olyan kvótát, olyan támogatást, mint amit remélünk a mostani szerkezetünkben.",
+    "hypothesis": "Lánszki Imre szerint  vannak olyan ágazatok, ahol nem kapják meg a remélt támogatást."
+  },
+  {
+    "id": "143",
+    "premise": "Dimény Zoltán, a Gazdakör felelős szerkesztője: -Hozzunk olyan embereket, akik érdemben választ tudnak adni az itt felmerülő kérdésekre. Riporter: - Miben látja most a székelyföldi gazdák legnagyobb dilemmáját? Dimény Zoltán: - Én úgy látom, hogy a Székelyföld egy kicsit tudathasadásos állapotba került, az az eufória a rendszerváltás után, hogy végre vissza tudjuk szerezni a földet és végre tudunk gazdálkodni, sok problémát okozott.",
+    "hypothesis": "Dimény Zoltán szerint a Székelyföld egy kicsit tudathasadásos állapotba került."
+  },
+  {
+    "id": "144",
+    "premise": "Műsorvezető: - Ez egy elég övönaluli ütés volt, ha úgy tetszik, hiszen tényleg ma reggel itt nem sok időt hagytunk Önnek, hogy átfussa a lapokat. Látja, hogy mit mutatnak a grafikonok, ugye? Rauschenberger Péter, a Lehet Más a Politika ügyvivője: - Hát úgy látom, hogy 40 százalék mondja azt, hogy bizonytalan, nem szavazna, és három százalék mondja azt, hogy egyéb pártra szavazna a felsorolt meglevő kínálaton kívül.",
+    "hypothesis": "Rauschenberger Péter szerint 40 százalék mondja azt, hogy bizonytalan, nem szavazna, és három százalék mondja azt, hogy egyéb pártra szavazna a felsorolt meglevő kínálaton kívül."
+  },
+  {
+    "id": "145",
+    "premise": "Riporter: - Egy kollega felvetésére, mely szerint ez Orbán javaslata. A következőt válaszolta. Hiller István: - Én úgy látom, hogy a szülőföldön való maradás az kormányjavaslat, amely az elmúlt kormányülés után került meghirdetésre, a határon túli magyar szervezetek körében is jó iránynak és helyesnek bizonyul.",
+    "hypothesis": "Hiller István szerint jó irány a szülőföldön maradást célzó kormányjavaslat."
+  },
+  {
+    "id": "146",
+    "premise": "Ez a kormányprogram, a koalíciónak meg végre kell hajtani a kormányprogramot. B.I.: - Tud már konkrétumokat vagy milyen előzetes elképzelések vannak? Kuncze Gábor: - Hát úgy látom, hogy a személyi jövedelemadó esetében a középső sávban mind a sávhatár emelésére, mind a kulcs csökkentésére sor kerülhet, a mértéken vita van.",
+    "hypothesis": "Kuncze Gábor szerint a személyi jövedelemadó esetében a középső sávban mind a sávhatár emelésére, mind a kulcs csökkentésére sor kerülhet."
+  },
+  {
+    "id": "147",
+    "premise": "Bayer Mihály, Nabucco-nagykövet: - Jó reggelt kívánok! Műsorvezető: - Egyetért -e az uniós aggodalmakkal? Bayer Mihály: - Természetesen én is úgy látom, hogy jónéhány olyan probléma, rendkívül komplex kérdés vár megoldásra a Nabucco kapcsán, amihez különlegesen összehangolt és rendkívül erőteljes erőfeszítésekre van szükség.",
+    "hypothesis": "Bayer Mihály szerint jónéhány olyan probléma, rendkívül komplex kérdés vár megoldásra a Nabucco kapcsán, amihez nagy erőfeszítésekre van szükség."
+  },
+  {
+    "id": "148",
+    "premise": "Thürmer Gyula: - Mi azért gyűjtöttük az aláírásokat, mert azt akartuk, hogy az emberek dönthessenek a kórházak sorsáról. December 5-én az emberek dönthetnek a kórházak sorsáról. - Ugyanakkor én úgy látom, hogy az elmúlt időszak ideértve nagyon sok választás, legcsúnyább választási kampányában vagyunk nyakig. Tehát én úgy látom, hogy egyik kérdés sem önmagát jelenti már, hanem az ellenzék és a kormánypártok közötti vita kiindulópontja és zárópontja egyidejűleg.",
+    "hypothesis": "A beszélő szerint egyik kérdés sem önmagát jelenti már, hanem az ellenzék és a kormánypártok közötti vita kiindulópontja és zárópontja egyidejűleg."
+  },
+  {
+    "id": "149",
+    "premise": "Műsorvezető: - És milyenek az első tapasztalatok, hiszen híreket korábban is tudtunk már arról, hogy képes lesz a kormány támogatni a tanyaprogramot, tehát létrejön egy több százmilliós keret, amely most tehát meg is valósult, de milyenek az első tapasztalatok, vevők erre a tanyákon élők erre az ötletre, akarják ők ezt egyáltalán? Ángyán József: - Több fórumot tartottunk már és hihetetlen pezsgés indult meg e tekintetben. A tanyagondnoki rendszerben tartottunk tájékoztatót, a Tanyákon Élők Egyesületével tartottunk fórumokat és úgy látom, hogy ha közeg, a környezet, az üzenetek megváltoznak a tanyás térségek körül, ez hihetetlen fejlődési potenciált hordoz.",
+    "hypothesis": "Ángyán József szerint a közeg és az üzenetek megváltozása fejlődési potenciált hordoz."
+  },
+  {
+    "id": "150",
+    "premise": "Műsorvezető: - Ha már a változtatásoknál, illetve a reformoknál tartunk, egy kis kitérő, de a reformmal kapcsolatos. Miként értékeli, hogy miközben ismét reformerként beszélnek a szocialisták, a főbíró-jelöltet, aki sok-sok változtatást szorgalmaz az igazságszolgáltatásban, elutasította a szocialisták többsége? Tölgyessy Péter politikai elemző, politológus: - Hát én úgy látom, hogy tökéletesen a hideg polgárháborús logika alapján döntött a parlament és a szocialista párt.",
+    "hypothesis": "Tölgyessy Péter szerint a szocialista párt a hideg polgárháborús logika alapján döntött."
+  },
+  {
+    "id": "151",
+    "premise": "Én nem tudom azt mondani, hogyha a MÁV-nak évente több mint százmilliárdot adunk, akkor most hirtelen adunk még többet. Mert Ön sem akar több adót fizetni, ha jól gondolom. Ön szeretne beletenni a MÁV szakszervezetének követelése nyomán még több pénzt zsebekbe? Ha igen, akkor lehet adni. Én úgy látom, hogy a magyar választók azok nem akarnak erre több pénzt fizetni.",
+    "hypothesis": "A beszélő szerint a magyar választók nem akarnak több adót fizetni."
+  },
+  {
+    "id": "152",
+    "premise": "Spilák Zsuzsa: - Kertésznek tanult és a kaktusz iránt való szerelme mondhatom így az onnan ered, hogy a szomszédjukban valaki gyűjtött és neki nagyon megtetszett a kaktusz, mert éjjel nyílt és gyönyörűek voltak a virágok és neki kifejezetten tetszik az a kaktuszban, hogy ennyire, hogy ha emberi tulajdonsággal ruháznánk fel, hogy ennyire zárkózott és nem enged közel magához akárkit. Ő is így beszél a kaktuszokról, mintha emberek lennének. Riporter: - Itt szemben van egy másik fotó, egy kb. 40 és 50 közötti férfi, megmondom a nevét is, Kóger László. Ősz hajú, kék szemű, úgy látom, hogy ő rádiókat gyűjt.",
+    "hypothesis": "A beszélő szerint Kóger László rádiókat gyűjt."
+  },
+  {
+    "id": "153",
+    "premise": "Riporter: - Egyébként mit szólnak Doboz Danihoz például a gyerekek? Tetszik nekik? Tehát barátkoznak velük, eljut az üzenet, hogy Doboz Dani elmondja, hogy mit kell csinálni az italos kartondobozzal? Igen, én úgy látom, hogy pont így, egy ilyen kis mesefigura, illetve egy megszemélyesített doboz kapcsán szinte könnyebb a gyerekekkel kapcsolatot teremteni.",
+    "hypothesis": "A beszélő szerint egy mesefigura segítségével könnyebb a gyerekekkel kapcsolatot teremteni."
+  },
+  {
+    "id": "154",
+    "premise": "Tehát én most azt hiszem, hogy ők lesznek a nevelők és a tanítók, hogy a szüleik is helyesen tudjanak szelektíven hulladékot gyűjteni. Erre példa volt most Érden, ahol voltunk és kint volt az egyik televízió állomás, aki meginterjúvolta a gyerekeket és annyira szépen, annyira spontán tudtak beszélni a gyerekek, hogy mi magunk is meg voltunk lepődve, hogy semmi felkészülés nélkül a gyerek tudta, hogy mi az, hogy szelektív gyűjtés, mi az, hogy tapossa laposra, hova kell, melyik edénybe melyik hulladékot rakni. És ezek ilyen 8-10 éves gyerekek voltak. Ez a generáció már úgy látom, hogy nagyon okos, természetesen folyamatosan kell nevelni, oktatni őket, de remélem, hogy ők most már anyut és az aput oktatják.",
+    "hypothesis": "A megszólaló szerint a 8-10 éves gyerekek generációja nagyon okos."
+  },
+  {
+    "id": "155",
+    "premise": "O.V.: - Nem. Én azt gondolom, hogy a magyar közéletben nagyon régóta hódit egy félreértés. Ezt most, amikor a választási elemzésekről beszélnek a vesztesek kiérzem, visszahallom. Tehát úgy látom, hogy ez a félrértés még él.",
+    "hypothesis": "A beszélő szerint a régóta hódító félreértés még mindig él."
+  },
+  {
+    "id": "156",
+    "premise": "Tehát ő Szaakasvilit is okolja a kialakult helyzetért. Ennek van jelentősége, hogy pont Csehország gondolkodik így, vagy hogy pont Csehország gondolkodik máshogy erről a helyzetről? Eörsi Mátyás: - Vaslav Klaus Csehország elnöke elég régóta van a politikai porondon ahhoz, hogy tudjuk róla, hogy ő mindig szeret mást mondani, mint a többiek. Ezzel együtt, én úgy látom, hogy az Európai Unió egy orosz külpolitikai törekvésekkel szemben megfogalmazott álláspontjában még soha nem volt annyira egységes, mint most.",
+    "hypothesis": "Eörsi Mátyás szerint az EU soha nem volt még ennyire egységes az orosz külpolitikával szemben megfogalmazott álláspontjában."
+  },
+  {
+    "id": "157",
+    "premise": "A történelmi helyzet valójában két évtizedes periódus, amelyben a hazafiúi vágyakat felülírják a nemzetközi erőviszonyok. Trianon hatása és értékelése Horthy Miklós politikájában. Tráser László beszélgetett Szakály Sándor történésszel. Szakály Sándor történész: - Én azt gondolom és úgy látom, hogy Horthy Miklós sokkal inkább reálisan látta a helyzetet 1919-20-ban, mint esetleg sokszor gondolták volna, hiszen Magyarországon 1920 után a trianoni békediktátumot követően egyértelmű volt a revízió hangoztatása és a követelése és propagandisztikus formában általában ugye a\"Mindent vissza\"és a\"Nem, nem, soha!\"fogalmazódott meg, ugyanakkor akik reálisabban nézték a helyzetet, ismerve a világpolitikai lehetőségeket, Magyarország helyzetét másként látták.",
+    "hypothesis": "Szakály Sándor szerint Horthy Miklós sokkal inkább reálisan látta a helyzetet 1919-20-ban, mint esetleg sokszor gondolták volna."
+  },
+  {
+    "id": "158",
+    "premise": "Hallgassuk meg Novotni Zoltán közvetítését. Elkezdődött a férfi kétpárevezősök középfutama, és a Haller - Bencsik kettős ezúttal is, mint tegnap a középfutamban valamivel óvatosabban, gyengébben kezd, egyébként tűz és víz a két fiú, a két versenyző, hiszen az előfutamban kiábrándító evezéssel az utolsó helyen eveztek, a reményfutamban, lendületes összmunkával pedig az elsőn. De Hallerék egyelőre csak a hatodik helyen lapátolnak, és a britekre lehetnek e pillanatban veszélyesek, az első három jut a döntőbe. A többiek eléggé előttünk vannak, nézem az egyes pályát, hogy sikerül-e feljönnünk, mennyire sikerül feljönnünk, rájönnünk a többiekre, de úgy látom, hogy egyre reménytelenebb a helyzetünk, a kubaiakat esetleg le tudjuk győzni, de a britek is hajráznak.",
+    "hypothesis": "A beszélő szerint egyre reménytelenebb a helyzetük."
+  },
+  {
+    "id": "159",
+    "premise": "Riporter: - Hogyan tudta ezt elérni az SZDSZ-nél, illetve az SZDSZ miért volt erre hajlandó? És aztán beszélünk persze az MDF-ről is. Tölgyessy Péter politikai elemző, politológus: - Én úgy látom, hogy az SZDSZ már korábban megtört.",
+    "hypothesis": "Tölgyessy Péter szerint az SZDSZ már korábban megtört."
+  },
+  {
+    "id": "160",
+    "premise": "Ezzel a két mondattal hirdeti magát a Nemzeti Színház. Kíváncsi voltam, Alföldi Róbert igazgató mit gondol, mennyire vevők az emberek manapság a színházi előadásokra? Alföldi Róbert, igazgató, Nemzeti Színház: - Durván két évvel ezelőtt a Bárka Színházban egy olyan helyzetbe kerültem, ahol nekem nagyon fontos célom volt, hogy minél többen és minél szélesebb réteg járjon, illetve hát most is egy olyan helyzetben vagyok, ahol az a dolgom, hogy megtartani a régieket és újakat hozni. De ugyanakkor, hogy ha általában kérdezi, hogy mi a tapasztalatom, akkor az a tapasztalatom, hogy egyáltalán nem látszik az, vagy nem úgy látom, hogy mondjuk csökkenne a színházba járó nézők száma.",
+    "hypothesis": "Alföldi Róbert szerint csökken a színházba járó nézők száma."
+  },
+  {
+    "id": "161",
+    "premise": "Rossz társaságba. Hát, nem lehet tudni. Én azért nem hiszem azt, hogy, nem gondolok ugye tragédiára. Ez a kislány úgy látom, hogy az átlagosnál mondom, értelmesebb, okosabb, fantáziadúsabb.",
+    "hypothesis": "A beszélő szerint az említett kislány az átlagnál értelmesebb."
+  },
+  {
+    "id": "162",
+    "premise": "Közvetlen a Balaton parton egészen jó. Nem lehet építkezni azokon a helyeken, ahol nincs csatornázottság. Riporter: - A rendszerváltás előtt mégis jobban betartották az építési tilalmat, mint manapság. Én úgy látom, hogy korlátlanul lehet építkezni a Balaton partján.",
+    "hypothesis": "A riporter szerint korlátlanul lehet építkezni a Balaton partján."
+  },
+  {
+    "id": "163",
+    "premise": "Udvaros Dorottya: - Én ezzel a figurával mélyen egyetértek. Szóval én is azt gondolom, hogy abban a helyzetben, amiben ez a nő élt, ő helyesen cselekedett, természetesen neki is van drámai vétsége, mint ahogy minden figurának van, mert egy jó darabban, minden figurának van drámai vétsége. Amikor a lánya megkérdezi tőle, hogy\"De most már nincs szükséged erre, miért nem hagyod abba? Miért nem élsz már, úgy, mint bármelyik más normál polgárasszony?\"és akkor azt mondja, hogy én ezt nem tudom abbahagyni senkinek a kedvéért. És ott nem veszi észre, hogy ezzel talán esély lenne, hogy a közöttük lévő viszony ne szakadjon meg.",
+    "hypothesis": "Udvaros Dorottya szerint van esély arra, hogy a szereplők közti viszony ne szakadjon meg."
+  },
+  {
+    "id": "164",
+    "premise": "Még egy téma talán, ami a nem hangzott el szó, hogy ugye a tavalyi évben az is igen jelentős, ami a Balaton felé irányította a belföldi forgalmat, hogy a forint és az euró árfolyamának alakulása miatt, rendkívül kedvező volt a Balatonnál maradni, itthon maradni, most a 2010-es évben ez az árfolyam most másként alakult, tehát nagyon-nagyon reméljük, hogy ennek ellenére gyakorlatilag a Balaton továbbra is egy nagyon vonzó célpontja marad a belföldi utazóknak. Műsorvezető: - Igen, csak azért egy kicsit furcsa, hogy megnézegettem az árakat és az nem látszik a válságban, a válság alatt, hogy engedtek volna az árakból. Tehát hiába a kisebb kihasználtság, akár elő- és utószezonban, azt én nem vettem észre, hogy drasztikusan csökkentek volna a szobaárak, tehát akár Bécsben, Münchenben is ugyanennyiért megkapjuk, mint Balatonon.",
+    "hypothesis": "A beszélő szerint drasztikusan csökkentek a szobaárak."
+  },
+  {
+    "id": "165",
+    "premise": "Békési Tímea: - Nagyon jellemző a szenvedélybeteg családokra a tagadás, arról, ami a leglényegesebb, arról senki nem beszél, azt senki nem akarja látni. Pontosan azért, mert az annyira fájdalmas, és az az igazság, hogy nekem sokkal jobb lett a kapcsolatom a szüleimmel, miután leszálltam róluk, ezt kell, hogy mondjam, mert hogy mint egy rendes aktív társfüggő, én amit gondoltam, hogy nekik jó, azt én mind megtettem, és nem vettem észre, hogy állandóan belegázolok mindenki személyes terébe, mindent kontrollálok, mindent ellenőrzök, ha valami nem úgy van, ahogy elképzeltem, akkor hihetetlen feszültséget gerjesztek magam körül, és az volt az első, amit megtanultam, hogy ezt engedjem el.",
+    "hypothesis": "Békési Tímea szerint ő állandóan belegázolt mindenki személyes terébe."
+  },
+  {
+    "id": "166",
+    "premise": "Riporter: Volt, aki pártolta a lap eddigi szerkesztéspolitikáját. Tomek Viktor, főszerkesztő, Hét Nap: Azért ez a Magyar Szó nem ennyire fekete, meg nem ennyire rossz, mint ahogy itt elhangzott. Én nem vettem észre, hogy a Magyar Szó bármit elhallgatott volna, elferdített volna.",
+    "hypothesis": "Tomek Viktor szerint a Magyar Szó elhallgatott vagy elferdített valamit."
+  },
+  {
+    "id": "167",
+    "premise": "Más kulturális értékek is szóba kerültek. Miskolci munkatársunk, Brézai Zoltán a táborozókkal beszélgetett. Megszólaló: Tavalyi tábor után felvetettem, hogy mi lenne, ha a 20. Anyanyelvi Tábort közösen szerveznénk... ...és hát igazából most itt vagyunk a végén, ami azt jelenti, hogy megvalósult, nem vettem észre, hogy különbség lett volna a magyarországi vagy az erdélyi táborozók között.",
+    "hypothesis": "A megszólaló szerint különbség volt a magyarországi és az erdélyi táborozók között."
+  },
+  {
+    "id": "168",
+    "premise": "Riporter: - Igen, hány van?. József: - Igen. Kettő, úgy vettem észre, hogy ezen a helyen mindig figyelnek arra, hogy hány ember van bent, tehát mi megéltük már azt, hogy nem engedtek be, mert azt mondták, hogy teltház van.",
+    "hypothesis": "A beszélő szerint ezen a helyen mindig figyelnek arra, hogy hány ember van bent."
+  },
+  {
+    "id": "169",
+    "premise": "És aztán külföldről is egy pár adat: Bécsben 24 fokot mértek, jó idő van ott is, Grazban 19 fok volt, Kolozsváron 13 fokot mértek, ott már azért hűvösebb van, Ljubljanában 18 fok volt ma reggel. Műsorvezető: - Ahogy azt ilyenkor már megszokhatták, a 180 perc vendége Tölgyessy Péter, és ezt a felvételt vasárnap délután készítjük. Egy kicsit ilyen választások utáni politikai évadzárót fogunk ma készíteni. Ha a felméréseket nézzük, akkor én úgy vettem észre, hogy nem sokat változott a kép.",
+    "hypothesis": "A beszélő szerint a felméréseket tekintve nem sokat változott a kép."
+  },
+  {
+    "id": "170",
+    "premise": "Horváth Miklós erdész vagyok. Elsodródott a vegyszer, és látszanak a nyomai. Lassan most már kipusztulnak az út menti fasorok, állandóan megkapják a kis méreg adagjukat a talaj keresztül is, a levegőből is. 8-10 éves növedék ott tönkremegy, azt kezdhetjük, előröl, kivághatjuk tőből azokat a kis fákat. Én úgy vettem észre, hogy a cser állomány az nem sérült meg, az valahogyan jobban elviselte, az akácot elég jól lerendezte, de ott vadcseresznyét, vadkörtét, meg más egyéb fákat is eléggé tönkretett.",
+    "hypothesis": "Az erdész szerint a cserállomány nem sérült meg."
+  },
+  {
+    "id": "171",
+    "premise": "Somogyi Balázs: - Nyugat-európai, akár én csak az osztrákokat ismerem, de a németek is szeretnének még most valahogyan olcsóbban vásárolni földet Magyarországon. Azt mondják, hogy most még kihasználni a lehetőséget, amikor még Magyarországon relatív olcsón lehet vásárolni, mert hogyha szabad a vásár Magyarországon, akkor mindenki tódul Magyarországra földet vásárolni és a nagy kínálat, nagy kereslet, felmennek a földárak. Van olyan gazda Burgerlandba, aki már évtizedek óta átjár Magyarországra gazdálkodni és 100-200 hektár földet, csak úgy kapásból megművelt. A farmeroknál én úgy vettem észre, hogy nagyon soknak van pénze arra, hogy földet vásároljon.",
+    "hypothesis": "Somogyi Balázs szerint sok farmernek van pénze földet vásárolni."
+  },
+  {
+    "id": "172",
+    "premise": "Ezt senki nem mondja, senki nem garantálja, hogy mennyi időre lesz foglalkoztatva. Még a szerződés sem garantál semmit. Hisz mi történik, ha csődbe jut a vállalat? Egy abszolút kiszolgáltatottság van. És a lojalitást, hogy tovább vigyük, kis- és közepes vállalatok esetében úgy vettem észre, hogy az lehet az egyetlen versenyképességi tényező, ha az a kisebb közösség valami módon ott a vállalatvezetés, a cégvezető olyan emberi gesztusokat tud gyakorolni a munkavállalóik felé, hogy azok ragaszkodjanak ehhez a vállalathoz, és ne akarják elcserélni egy jobban fizető vállalatra.",
+    "hypothesis": "A beszélő szerint az emberi gesztusok gyakorlása lehet az egyetlen versenyképességi tényező."
+  },
+  {
+    "id": "173",
+    "premise": "Riporter: - Önök tavaly együtt jártak már az Észak-sarkon, eltöltöttek jónéhány napot nemcsak ott, hanem sokat másztak is együtt, jól ismerik egymást. Milyen ember Krisztina? Ács Zoltán: - Nagyon motivált ezekre a dolgokra és nagyfokú hasonlóság van bennünk. Én ezért is vállalkoztam, amikor mi először megismerkedtünk arra, hogy elkísérem, illetve idézőjelben segítek ezeknek a céloknak a megvalósításában, mert úgy vettem észre, hogy ugyanazok a dolgok hajtják őt is ezekre a kalandokra, amik engem is.",
+    "hypothesis": "Ács Zoltán szerint Krisztinát is ugyanazok a dolgok hajtják ezekre a kalandokra, mint amik őt is."
+  },
+  {
+    "id": "174",
+    "premise": "Póta Georgina: - Barátnők is vagyunk, eddig is sokat utaztunk együtt, most is kint Berlinben együtt lógunk, amikor lehet. Hát élvezzük a kinti életet. Szabó Szilárd: - Viszont úgy vettem észre, hogy szinkronban vagy a többiekkel is, tehát az Iváncsánnal ugyanolyan, szóval hogy egy jó csapatot alkottok.",
+    "hypothesis": "Szabó Szilárd szerint Póta Georgina szinkronban van a többiekkel."
+  },
+  {
+    "id": "175",
+    "premise": "Az eddigieket, azt a gyorshajtást meg ilyesmit azt úgy próbálom betartani, hogy ne kelljen túlságosan zsebbe nyúlni, a többi meg általában városon belül azért az embert viszi a forgalom, meg a ritmust fel kell venni ahhoz, úgy hogy néha be-becsúszik egy-két hiba, de azért próbálom kerülni. Riporter: - Vajon lesz -e vagy lehet -e visszatartó, ha többet kell fizetni az autósnak, ha fenyegetik a magas bírsággal? Én eddig úgy vettem észre, hogy van visszatartó ereje, hogy ez a gyorshajtásnál is megjelentkezik, meg a piros lámpánál is, úgyhogy valószínű, hogy lesz visszatartó ereje.",
+    "hypothesis": "A beszélő szerint van visszatartó ereje a magas bírságnak."
+  },
+  {
+    "id": "176",
+    "premise": "Következzék tehát a tanú, aki 53 esztendő után többé nem névtelen. Kassa Péter közgazdász, aki először a Disputának nyilatkozott. Kassa Péter: - Bécsben dolgoztam az ifjúsági szövetség, forradalmi szövetségbe a magyarokkal, a magyar forradalmárokkal. Aztán kezdtem megunni, udvariasan mondjam, mert a szövetség az jó volt, de aki adta a pénzt, az az osztrák szociáldemokrata párt volt és aztán úgy vettem észre, hogy kezdtek minket irányítani.",
+    "hypothesis": "Kassai Péter szerint elkezdték őket irányítani."
+  },
+  {
+    "id": "177",
+    "premise": "Egervári Sándor: - A jelző jó, valóban ideges, feszült, időnként görcsös volt a csapat, nagyon szerette volna meghálálni a közönségnek ezt a bíztatást és a szurkolást... ...azért megérdemeltük a három pontot, hogy itthon tartottuk. Riporter: - Ugye a szerethető csapathoz, ahhoz akárhogy nézzük szerethető eredmények is kellenek. Egervári Sándor: - Igen, de hát ez egy szerethető eredménye számomra mindenféleképpen, én úgy vettem észre, hogy a közönség számára is, tudomásul kell venni, hogy a mai nemzetközi futballban nagyon nagy gólarányú győzelmeket hazai pályán sem sikerül összehozni.",
+    "hypothesis": "Egervári Sándor szerint nem sikerül összehozni hazai pályán nagy gólarányú győzelmeket."
+  },
+  {
+    "id": "178",
+    "premise": "Iváncsik Attila: - Általába mi a sorsa, az itt köttetett házasságoknak? Együtt maradnak a házaspárok? Lizák Tamara: - A falusi fiatalok, sokkal jobban összetartanak, mint a városi. És eddig, úgy vettem észre, hogy aki házasságot kötött egyszer, az, együtt is maradnak.",
+    "hypothesis": "Lizák Tamara szerint akik házasságot kötöttek, együtt is maradnak."
+  },
+  {
+    "id": "179",
+    "premise": "Kovács Gabriella.: - Kinéznek a kamerába. Baski Sándor: - Igen, igen. Tehát főleg, ha (?), a Ronaldóról nem tudom elképzelni, de mondjuk az olasz játékosokról, akik ugye hírhedten odafigyelnek arra, hogy elég zselé legyen a hajukon, tehát hogy ők tudják, hogy őket filmezik. Eddig ez nem volt akkora probléma, mert a stadionban nem lehetett látni a kivetítőn ezeket, és úgy vettem észre, hogy a mostani Európa Bajnokságon már nem kapcsolják ki mérkőzés kezdetén a kivetítőket.",
+    "hypothesis": "A beszélő szerint a mostani EB-n már nem kapcsolják ki a kivetítőket."
+  },
+  {
+    "id": "180",
+    "premise": "Műsorvezető: - Keleti Miklóst hallották Brüsszelből, Köszönjük szépen! Műsorvezető: - Ahogy azt ilyenkor már megszokhatták, a 180 perc vendége Tölgyessy Péter, és ezt a felvételt vasárnap délután készítjük. Egy kicsit ilyen választások utáni politikai évadzárót fogunk ma készíteni. Ha a felméréseket nézzük, akkor én úgy vettem észre, hogy nem sokat változott a kép.",
+    "hypothesis": "A beszélő szerint nem sokat változott a kép."
+  },
+  {
+    "id": "181",
+    "premise": "Riporter: - Miért pont ezt a könyvet választotta? Van Csung műfordító: - Igen, tavaly februárban kezdtem foglalkozni a művel és június első felében fejeztem be, és azért választottam Máray Sándort, mert én úgy tudtam, hogy 89-ig, 90-es évek elejéig Márayt még Magyarországon sem lehetett olvasni. Valahogy úgy vettem észre, hogy a közelmúltban egy olyan Máray reneszánsz alakult ki a magyar könyvpiacon, és elkezdtem Márayt olvasni, és megfogott több könyve is, többek között a Gyertyák csonkik égnek és gondoltam, hogy mivel a rendszerváltás óta a vietnami-magyar kapcsolatok kulturális téren elég hézagosak...",
+    "hypothesis": "A műfordító szerint a közelmúltban egy Máray-reneszánsz alakult ki a magyar könyvpiacon."
+  },
+  {
+    "id": "182",
+    "premise": "Riporter: - Mit gondol az Európai szövetség, mit gondol a nemzetközi szövetség, van -e szándék arra, hogy változtasson a Vízilabda szabályain? Szakadáti László: - Mi sem gondoljuk másképp, sajnos mi mint európai szövetség, igazából nem tudunk változtatni, a nemzetközi szövetség szabályai szerint játsszák a vízilabdát. Nemrég volt egy nagy nemzetközi vízisportos összejövetel Uruguayban, ahol szinte minden nap felvetődött ez a kérdés, és úgy vettem észre, hogy most ebben a pillanatban van egy ingerencia arra, hogy változás legyen.",
+    "hypothesis": "Szakadáti László szerint ebben a pillanatban van egy ingerencia arra, hogy változás legyen."
+  },
+  {
+    "id": "183",
+    "premise": "Hiszen gondolom, hogy rengeteg a tananyag, amit el kell végezni. Gyulai Krisztina osztályfőnök: - Az osztályfőnöki óra keretében zajlik, és én ezt nagyon fontosnak tartom, hogy erre a létező problémákra, tehát a mai kornak a problémáira legyen rálátásuk a gyerekeknek. Egy kolléganőm ajánlotta egyébként ezt a lehetőséget, és azért gondoltam, hogy ez is, nálunk is beválik. Egyébként korábban már beszélgettünk pont erről a témáról, és úgy vettem észre, hogy azért nem annyira előítéletesek a gyerekek ebben a kérdésben, mint ahogy esetleg várható volna.",
+    "hypothesis": "Gyulai Krisztina szerint nem annyira előítéletesek a gyerekek a mai kor problémáival kapcsolatban, mint ahogy esetleg várható volna."
+  },
+  {
+    "id": "184",
+    "premise": "A vasárnapi iskola pedagógusai, Békéscsabáról, minden évben segítenek a nagyszalontai gyermekeknek felkészülni az ünnepi műsorra. Eddig mindig betlehemest tanítottak a gyermekeknek, most ez kivétel, most egy Andersen mesét fognak bemutatni. Poszt Zsófia, a Vasárnapi Iskola egyik tanára Békéscsabáról: - Én úgy vettem észre, hogy Andersennek ez a Két gyertya története illik a karácsonyi eseménysorhoz, örömről, szeretetről, a szegény és a gazdag problémáját feszegeti a gyerekek szívesen játsszák, érdekesnek tartják ezt az előadási formát.",
+    "hypothesis": "Poszt Zsófia szerint Andersentől a Két gyertya története illik a karácsonyi eseménysorhoz."
+  },
+  {
+    "id": "185",
+    "premise": "Ebben a szerb szakosaink itt Szegeden segítenek, amoda át pedig a Kosztolányi Dezső Gimnázium magyar diákjai segítenek majd felolvasni. Beslin Anita: - Szegeden nagyon pozitívan fogadták az ötletet, de vajon mit szólt mindehhez Szabadka? Orcsik Roland: - Nagy nyitottsággal fogadták az egészet, László Edit, a Lifka Művészmozi vezetője segít minket és úgy vettem észre, hogy azokat a szerb szerzőket, akiket felkértünk, azok ugyanígy nyitottan álltak hozzá…",
+    "hypothesis": "Orcsik Roland szerint a szerb szerzők, akiket felkértek, nyitottan álltak a felolvasáshoz."
+  },
+  {
+    "id": "186",
+    "premise": "Bence: - Érdekel minket így maga a színészet, maga a dráma meg ilyesmi. Riporter: - Ezek a nyíregyházi kislányok már rákaptak a színház izére, de mint Fazekas István színművész mondja, nem minden kortársuk van ezzel így. Bence: - Még az új színházban amikor ott voltam tag, akkor kezdtem el figyelni a közönséget, és úgy vettem észre, hogy nem színházi nézők ülnek a nézőtéren, hanem mindenféle más emberek, akik nem egészen pontosan tudják és érzik, hogy a színháztól mit kellene kapniuk és ez az érzésem azóta fokozódott.",
+    "hypothesis": "A beszélő szerint nem színházi nézők ülnek a nézőtéren."
+  },
+  {
+    "id": "187",
+    "premise": "Bálint István :- Melyiket helyesebb használni, mert sokan nem tudják eldönteni, főleg a gyerekek, meg a tinédzserek. Balázs Géza: - Én megszerettem a kezét, csókolom és én is használom. És úgy vettem észre, hogy a hölgyek nagyon örülnek neki.",
+    "hypothesis": "Balázs Géza szerint a hölgyek örülnek a \"kezét csókolom\" köszönésnek."
+  },
+  {
+    "id": "188",
+    "premise": "Most az ember így hozzászokik ehhez az életmódhoz, tehát mondjuk ilyen éppen a kisbaba mellett nem igazán szoktam eljárni otthonról. Hát gyakorlati okok miatt ugye még este is van szoptatás, meg hát napközben is. Napközben alszik, gyerekeket be kell gyűjteni oviból, iskolából. Tehát egyszerűen az embernek ez nem fér bele az életébe. Eröltetni meg nem akarom, mert úgy vettem észre, hogy amikor még úgy a gyerek nincs azon a szinten, hogy tényleg úgy jól érzi magát már az anyukája nélkül, akkor ebből csak bonyodalmak származnak és senkinek se lesz jó.",
+    "hypothesis": "A beszélő szerint jó ötlet eljárni otthonról, amíg a kisgyerek nem érzi jól magát az anyukája nélkül."
+  },
+  {
+    "id": "189",
+    "premise": "O.G.E.: - A Hargita Népe tulajdonosa említettem, hogy a megyei önkormányzat. Ki van -e téve az újságíró annak, hogy ki a tulajdonosa a lapnak? Ferenc Imre: - Probléma volt a rendszerváltás után, mert általában a lapok privatizáltak és nálunk is volt egy ilyen törekvés, vagy legalábbis a társaság egy része mind szorgalmazta. Zavart engem is, mert úgy vettem észre, hogy az a világ köszöntött be, amikor egy lapnak a jövőjét meghatározza és az biztosítja a függetlenségét, ha privatizál.",
+    "hypothesis": "A beszélő szerint egy lap akkor lehet csak független, ha privatizál."
+  },
+  {
+    "id": "190",
+    "premise": "Bálint: - Persze, minden lehet. Amerikában egyébként is sok minden érdekes dolog meg tud történni. Azt hiszem például, hogy össze fogják vágni ennek a Tan Dum darabnak a Youtube-ra beküldött felvételeit és abból is lesz valami, meg fog szólalni úgy a mű, hogy csupa kis videofelvétel van egybeapplikálva, valami látványos, vagy akár vicces dolog is kisülhet az egészből. Én úgy vettem észre, hogy ez az egész kezdeményezés az nyitott minden ilyen dologra, és hát szerintem épp ez benne a jó.",
+    "hypothesis": "A beszélő szerint a kezdeményezés nyitott a videószerkesztéssel kapcsolatos dolgokra."
+  },
+  {
+    "id": "191",
+    "premise": "Természetesen vannak, akik érdeklődnek. Nagyon szívesen olvasnak például kortárs költeményeket, különösen olyan környezetben, ami az ő világuk. Tehát interneten blogokon nagyon sokan próbálkoznak saját versek publikálásával ezen a módon. Illetve úgy vettem észre, hogy a mostani fiatalabb költők híresebb generációja, Varró Dani például, tehát ők népszerűek.",
+    "hypothesis": "A beszélő szerint a mostani költők fiatalabb generációjába tartozó szerzők népszerűek."
+  },
+  {
+    "id": "192",
+    "premise": "De nagyon elégedett vagyok. Rendben ment minden. Műsorvezető: - Mindenesetre, egy egészen újfajta felfogását láthattuk most, ennek az igen ismert műnek. Én úgy vettem észre, hogy egészen máshová helyezte a hangsúlyokat.",
+    "hypothesis": "A megszólaló szerint a mű új feldolgozása máshová helyezte a hangsúlyokat."
+  },
+  {
+    "id": "193",
+    "premise": "Gyürke Kata: - Igen, Flashforward, ezt jelenti ez a szó, megváltoztatható-e a jövő, és ha igen, akkor meg akarjuk -e ezt egyáltalán változtatni? Ilyen kérdéseket feszeget ez a sorozat, ami egy új szupersorozatnak tűnik, alig egy hónapja látható a hazai csatornákon és teljes gőzzel a Lost babérjaira tör és hogy mindez, miért érdekes? Hát máris kiderül, Virányi Orsolya összeállításából. Riporter: - Én úgy vettem észre, hogy a Science Fiction Magyarországon nem annyira vetette még meg a lábát, illetve nem annyira szeretjük talán.",
+    "hypothesis": "A beszélő szerint a science fiction nem annyira népszerű Magyarországon."
+  },
+  {
+    "id": "194",
+    "premise": "Borbélydi András: - Ha az ember Erdélyből hazajön, akkor szinte mindenki azt mondja, hogy olyan barátságosan fogadták, mennyire mások azok az emberek, akik ott élnek, és vajon ez miért van? Sebestyén István népművész, mesemondó: - Talán a magukrautaltság, ahogy ott élnek, nekik nincs más, csak a magyar kultúra, a magyar nyelv, és ehhez ragaszkodnak, itt Magyarországon könnyű magyarnak lenni, míg kívül megőrizni a magyarságot úgy gondolom, hogy sokkal nehezebb!  Hát ugye én úgy vettem észre, hogy Magyarországon is nagyon sok jó magyar ember van, és tényleg nagyon sok segítő kéz.",
+    "hypothesis": "A beszélő szerint Magyarországon sok jó és segítőkész ember van."
+  },
+  {
+    "id": "195",
+    "premise": "István: - Az még érdekelne, hogyha a babát dajkálgatja, gondozgatja és ezzel magát utánozza, hogy vajon konkrétan a nyolc hónapos kistestvérével neki milyen a kapcsolata? Telef: - Jó a kapcsolatuk.Hát ugye bonyolult kapcsolat van két testvér között, de úgy összességében azt mondhatom, hogy én nagyon örülök, hogy így viszonyulnak egymáshoz. Sokat foglalkozik, egész nap velük vagyok és úgy is alakítottuk ki, hogy például a kicsinek nincs járókája, mindig játszhat vele, a kiságyába is be tud menni nappal, oda tud bújni mellé, nyilván, hogyha alszik, akkor becsukjuk az ajtót, de úgy vettem észre, hogy a pici is nagyon örül a testvérének, hogyha meglátja és Áron is örül, vannak féltékenykedések, néha például azt mondja Áron, hogy \"Én vagyok a Berci, ő a kistestvér.\"",
+    "hypothesis": "A beszélő szerint a gyerek örül a testvérének."
+  },
+  {
+    "id": "196",
+    "premise": "Riporter: - A heti foglalkozásokon kívül, foglalkoznak vele külön is, hogy minél jobban elsajátítsa az angol nyelvet? Anikó: - Igazándiból van négy darab cd és kétszer négy darab könyv, ezeket lehet nézegetni, hallgatni és napi kétszeri cd-hallgatás ajánlott. Na most én úgy vettem észre, hogy egy kicsit besokallt a gyerek, úgyhogy már nem adtam neki a cd-t, nem foglalkoztunk vele, azon kívül, hogy csütörtökönként elvittem órára.",
+    "hypothesis": "A beszélő szerint a gyerek besokallt a hanganyagoktól."
+  },
+  {
+    "id": "197",
+    "premise": "Riporter: - És ezek az akkori viták, csak a szentestére korlátozódtak, a közvetlen készülődésre, vagy úgy rányomták a bélyegüket, a teljes ünnepre, a két ünnep közötti időszakra, akár még a szilveszterre is. Mihály: - Volt olyan, hogy igen, általában a karácsonyi ünnepekre mindig, volt, hogy szilveszterre azért már egy kicsit konszolidálódott a dolog, de úgy vettem észre, hogy azért nyomot hagyott mindannyiunkban.",
+    "hypothesis": "A beszélő szerint a viták minden résztvevőben nyomot hagytak."
+  },
+  {
+    "id": "198",
+    "premise": "Egyébként a kormány szerdai ülésén áttekintette a Balatonnal kapcsolatos cselekvési tervet és megállapította, hogy a 2003-ban, illetve 2004. tavaszán elhatározott intézkedések megfelelő ütemben zajlanak és számos területen javul az állapot a Balatonnál. Vízminőség az tovább javult... ...ez tovább javul majd a jövő tavaszig. Riporter: - Az északi parton jöttem haza, úgy vettem észre, hogy Ábrahám hegynél vannak csatornaépítési munkák.",
+    "hypothesis": "A beszélő szerint az Ábrahám-hegynél csatornaépítési munkák vannak."
+  },
+  {
+    "id": "199",
+    "premise": "László: Az első félidőben még nagyon jól tartottuk magunkat, aztán a második félidőben a támadások nem úgy mentek, ahogy elterveztétek. Császár Gábor: Az elsőben is egy kicsit lassúak voltunk, én azt gondolom. Nekünk nehéz volt ez ellen a támadás, ez ellen a védekezés ellen játszanunk. Aztán volt egy olyan időszaka, azt gondolom, a meccsnek, amikor kicsit szétcsúsztunk, amikor elvesztettük picit a hitet, utána próbáltunk kapaszkodni, de már úgy vettem észre, hogy nagyon nem tudtunk feljönni.",
+    "hypothesis": "Császár Gábor szerint a csapat nem tudott feljönni a meccsen."
+  },
+  {
+    "id": "200",
+    "premise": "Vajon hogyan értékeli az elmúlt időszakot egy vezető konzervatív politikus. Majd arra is választ kaphatnak, hogy milyen eredményt hozott ez a hét a hónapok óta zajló vitában az EU és a Magyar Kormány között Interjú Navracsics Tibor miniszterelnök helyettessel, közigazgatási és igazságügyi miniszterrel. A Riporter Perjés Klára Riporter: Nem tudom, hogy ez az időszak a legalkalmasabb-e egy ilyen félidős számvetésre, minthogy úgy vettem észre, hogy az emberek többségét nem ez érdekli, hanem az, hogy mikor lesz már vége például az IMF vesszőfutásnak, elkezdődnek-e a tárgyalások, aztán hogy valóban megzsarolták-e a kormányt, azért javítgattak annyit a jogszabályokon, az EU parancsára és a Velencei Bizottság javaslatára?",
+    "hypothesis": "A beszélő szerint az embereket nem az EU és a kormány közti vita végeredménye érdekli."
+  },
+  {
+    "id": "201",
+    "premise": "Futó Barnabás: - Nem szeretne hétvégenként eljárni és közérdekű munkát végezni. Ezt szintén majd a jogalkalmazónak kell valahogy kialakítani. Nem tudom, hogy mi lesz ebből, de abban biztos vagyok, hogy a munkáltatók nem fognak olyan nagyon örülni, meg az önkormányzatoknál ennek a megoldásnak. ifj. Lomnici Zoltán: - Röviden abban úgy vettem észre, hogy politikai konszenzus van Magyarországon, hogy felfigyelt rá már a jogalkotó is, hogy egész generációk nőttek úgy fel, hogy nem látták sem a szüleiket sem dolgozni, sem ők maguk sem.",
+    "hypothesis": "Lomnici Zoltán szerint politikai konszenzus van Magyarországon."
+  },
+  {
+    "id": "202",
+    "premise": "Köszönöm szépen, hogy elfogadták a meghívást. Mielőtt az első telefonunk megérkeznek, Batke Jánosné Kereskedelmi Alkalmazottak Szakszervezetének alelnöke, ön az elmúlt napokban nagyon sok helyen előfordult, televízióban, rádióban, sok helyen nyilatkozott erről, sok mindent tudunk. Mégis, ha az Unió országait összehasonlítjuk Magyarországgal, mit lehet mondani, egyedülálló az, hogy Magyarországon a kis üzletek és a nagy bevásárló központok vasárnap is nyitva vannak, mert mondjuk nekem Németországról és Ausztriáról vannak tapasztalataim, én ott úgy vettem észre, hogy vasárnap azok zárva vannak, vagy ott zárva vannak az üzletek, de mi a helyzet a többi országban?",
+    "hypothesis": "A beszélő szerint Ausztriában és Németországban a kis üzletek és a nagy bevásárlóközpontok vasárnap zárva vannak."
+  },
+  {
+    "id": "203",
+    "premise": "S.Riporter: - És mi a helyzet azokkal a közösségekkel, amelyek együtt dolgoztak egy-egy ilyen falon? Megteremti -e tényleg az akkori együttlét azt az összetartó erőt, ami kitart utána a továbbiakban is? K.K.: - Ha nem is minden csoporttag fog megmaradni, de vannak nagyon lelkes, nagyon motivált csoporttagok, akikre lehet majd építeni következő munkákat. Hosszútávon úgy képzelem el, hogy egy olyan csoport alakulhasson ki belőlük, akik minden programunkon részt vesznek.",
+    "hypothesis": "A beszélő szerint hosszútávon egy olyan csoport fog kialakulni, akik részt vesznek minden programon."
+  },
+  {
+    "id": "204",
+    "premise": "Amit nagyon szerettem még ebben a kötetben az, édesapjához Király László költőhöz való férfias bajtársi viszonya. Lehet, hogy most fantáziálok, de úgy képzelem el, hogy egy nagy ember árnyékából kidugni a fejed, elég nehéz lehet, és ezzel meg kell vívni az utódnak, sikeresen vívd meg, és nagyon-nagyon sok szeretet és szépség szólal meg a lelkéből, akkor, amikor az apjáról ír",
+    "hypothesis": "A beszélő szerint egy nagy ember árnyékából elég nehéz az embernek kidugni a fejét."
+  },
+  {
+    "id": "205",
+    "premise": "Bacsó László Bihardiószeg polgármester Bacsó László: - A településnek tulajdonképpen kapcsolata van a hajdúk történetéhez, ugyebár az 1600 végén, a Bocskai által vezérelt győztes Álmosdi csata, Diószegnek a határában folytatódott, és tulajdonképpen ott volt az egyik győztes ütközet. Ennek emlékére tudott dolog az, hogy Bihardiószegen két éve már megrendezzük a csatajelenetet is, a testvértelepülési kapcsolat fontossága az, hogy Álmosdról indult ez a csata. Na most nekünk Álmosddal van egy régi, egy 16 éves testvértelepülési kapcsolatunk, amelyik nemcsak kulturális és történelmi kapcsolat, hanem gazdasági kapcsolattá is alakult, ugyebár közös pályázatokat nyertünk, és én úgy képzelem el, hogy a hajdú hagyományok függvényében, ezek a bizonyos települések, olyan kapcsolatokat tudnak teremteni egymással, amelyik nemcsak a kultúrát, nemcsak a hagyományt, nemcsak a történelmet őrzik, hanem gazdasági kapcsolatot tudunk velük létesíteni.",
+    "hypothesis": "Bacsó László szerint a települések nemcsak kulturális, hanem gazdasági kapcsolatokat is tudnak létesíteni."
+  },
+  {
+    "id": "206",
+    "premise": "Gesztusaiból, megjegyzéseiből, tetteiből. Például volt egy ünnepség, ahova az idős hölgy meg volt hívva, pár lépcsőn kellett fölmenni, és már nagyon nehezen járt. Egy unokahúgával akart odamenni, és mondta a cselédnek is, hogy öltözzön, mert mennek, mert őt fel kell segíteni a lépcsőn, és megkérdezte, hogy miért? Hát ott az unokahúga? Hát csak nem képzeled, hogy ő fog nekem segíteni?",
+    "hypothesis": "A beszélő szerint az unokahúga fog az idős hölgynek segíteni."
+  },
+  {
+    "id": "207",
+    "premise": "Mikula Lajos: - Tehát ott van oktatási központ, van egy olyan könyvelőirodájuk, ami a gazdáknak a könyvelését intézi, önálló szaktanácsadói hálózattal rendelkeznek, ami egyébként pénzt is termel, tehát ez például a függetlenségét is meg tudja teremteni egy ilyen gazdaszervezetnek Olaszországban, hogy neki vannak folyamatosan bevételei és nicns ráutalva adott esetben állami forrásokra, nem kell olyan dolgokkal is foglalkozni, amivel esetleg nem szeretne. Riporter: - Most az előbb, ahogy a francia példát mondta, az jutott eszembe, hogy úgy képzelném, hogy például Franciaországban a nagy agrárvidékeken, egy gazda, nem biztos, hogy csak abból él, hogy termel valamit a földjén, hanem mellette még kis vállalkozása is van, tehát vendégfogadás, turizmus.",
+    "hypothesis": "A beszélő szerint egy francia gazdának vállalkozása is van a termelés mellett."
+  },
+  {
+    "id": "208",
+    "premise": "Riporter: - Vajon azt nem lehet elmondani, hogy az iparűzési adót, jelen pillanatban cégek vagy késve fizetik, vagy esetleg van, aki nem veszi olyan nagyon komolyan, tehát ez egyfajta fegyelmet hozna. Irén: - Én azt gondolom, én is működő vállalkozó vagyok és hát egy sor dolgot fizetünk, például a helyi adóhatóságoknak. Nekem például van egy kis üzletem, ahol most éppen talajterhelési díjbevallást kell adnom, és majd május 30-ig azt megfizetnem. Úgyhogy azt gondolom, hogy az adórendszerben épp itt az ideje, hogy egy átfogó megoldást találjanak arra, hogy a sokféle, sok jogcímen beszedett adót, a visszaosztásnak, vagy a felhasználásnál, hogy hogy lesz ebből ellenőrizhető és átlátható folyamat, gondoljuk, hogy ez nem jó irány, nem úgy tűnik, hogy kevesebb lesz az adminisztráció, hanem több, és a felhasználásnak az útja nem követhető.",
+    "hypothesis": "A beszélő szerint kevesebb lesz az adminisztráció."
+  },
+  {
+    "id": "209",
+    "premise": "Kovács Anna Riporter: - A gazdaságkutatók 2008 őszén arra számítottak, hogy három évvel később már a múlté lesz a válság. Ez azonban a GFK Hungária szerint nem így történt. Kozák Ákos, a cég ügyvezető igazgatója azt mondja, hogy tavaly év végén már többet költöttek a vásárlók, de még mindig az ár és az érték aránya alapján választanak, vagyis az akciós, olcsóbb termékeket keresik. Kozák Ákos: - A fogyasztás bővülése és a kiskereskedelem bővülése, amire régóta várunk, és sokan várunk, azt bizony ki lehet most tolni, mert egyelőre nem úgy tűnik, hogy 2011 első fele, az a fogyasztás föllendülésével, ily módon a kiskereskedelmi forgalom fellendülésével járna.",
+    "hypothesis": "Kozák Ákos szerint 2011 első felében fel fog lendülni a kiskereskedelmi forgalom."
+  },
+  {
+    "id": "210",
+    "premise": "Lehet, hogy ez sokakban keltett valamiféle ellenérzést, gyanakvást. Ráadásul ne felejtsük el, hogy Horvátország egy nagyon szuverén ország volt.... elnök, aki a horvát függetlenség harcosa volt, és az első elnöke, egy nagyon szuverén politikus volt. És őt ezért, sokan, idézőjelbe mondva, ferde szemmel nézték Európában. Meg talán féltek attól is, sokan, hogy német befolyás erősödik ott.",
+    "hypothesis": "A beszélő szerint Horvátországban erősödik a német befolyás."
+  },
+  {
+    "id": "211",
+    "premise": "Riporter- Tehát ami a személyiségfejlődésben a legfontosabb, a kötődés, az hiányzik a gyereknek. Szilvia: - Így van, így van, a kötődés hiányzik, ugye a kötődésnek pont az a lényege, hogy a gyerek megtanulja, hogy a világ jó. A világban bízni kell és bízni lehet, mert az anyukám és az apukám ezt tanítja. Na most az, akinek ez hiányzik, nem tanulja meg, hogy a világ jó, és ilyenkor hónapok, évek telnek el, a szülő vagy látogatja a gyermeket, vagy nem.",
+    "hypothesis": "A beszélő szerint a világ jó."
+  },
+  {
+    "id": "212",
+    "premise": "Riporter: -Mikor lesz ez a döntés? Csaba Róbertné: - Nem tudom, nem merem megmondani, hogy mikor Riporter: - Bízik-e benne, hisz abban, hogy Öné lesz ez az állás, megálmodta-e már, hogy ott ül és teszi a dolgát?",
+    "hypothesis": "A Riporter szerint Csaba Róbertné megkapja az állást. "
+  },
+  {
+    "id": "213",
+    "premise": "Szabó Gyula: - Igen, itt egy statisztikus trükkre volt szükség, annak az ára, hogy egyfélóra alatt megcsináljuk ezt a vizsgálatot, ahelyett, hogy évtizedekig tartana az, hogy az egyedi kisbolygókról nem tudjuk megmondani, hogy milyen alakú. De ha van egy mintánk, amiben van néhány száz, négyszáz, hatszáz, nyolcszáz, ezer darab és megnézzük, hogy a mintákban a kisbolygók egyesével az egyes megfigyelések közt milyen fényváltozást mutattak, akkor meg tudjuk mondani, hogy a teljes mintában a kisbolygók alakjának az eloszlása milyen jellegű. Elek László:- Gondolom ezt az algoritmust dolgozták ki Önök. De ha már megvan az eredmény, amely azt mondja, hogy statisztikusan legalábbis a legtöbb kisbolygó valamiféle krumpli alakú, alig hiszem, hogy ne gondolkoztak volna el rajta, hogy vajon miért?",
+    "hypothesis": "Elek László szerint az emberek nem gondolkoztak el a kisbolygók alakján."
+  },
+  {
+    "id": "214",
+    "premise": "Tölgyessy Péter: - Tehát olyasmit, mint amiről a szocialisták temetési támogatást ígértek a nyugdíjasoknak, vagy alacsonyabb áfát kell fizetni a távfűtés után, most éppen a választások előtt, vagy a közalkalmazottaktól ugyan elvették a 13. havi bért, de még a választások előtt két részletben kapnak támogatást.  Műsorvezető: - Azt mondta az előbb, hogy az emberek alig hiszik, hogy a választásokkal javul az ország állapota, ugyanakkor azt is mondta a beszélgetés elején, hogy egy új közéleti időszámítás kezdődhet az áprilisi választások után, ez nem ellentmondás?",
+    "hypothesis": "A beszélő szerint a választásokkal javul az ország állapota."
+  },
+  {
+    "id": "215",
+    "premise": "Tudom, hogy sokan megkérdőjelezik ezt, de a cigányok bármilyen fogadalmat tesznek, abba mindig benne van az Isten szó, és hiszünk Istenbe! Rendszerint nem tudunk járni misére, de aki megteheti, az eljár, és egyre többen járnak, és egyre többet dolgozunk azon, hogy a gyerekeink visszatérjenek a történelmi egyházak missziójához. Katolikusok vagyunk általába, és természetesen hiszünk a hitben és a vallásban. Szepesi László Riporter: - XVI. Benedek még nem hiszem, hogy fogadott roma delegációt?!",
+    "hypothesis": "A Riporter szerint XVI. Benedek fogadott már roma delegációt."
+  },
+  {
+    "id": "216",
+    "premise": "Műsorvezető: - Akkor Médiatanács, szuperfelügyelet és gumiszabályok. L. Simon László, mit tud erre mondani, védelmében vagy a Médiatörvény védelmében valójában. L. Simon László: - Jó reggelt kívánok! Én nem hiszem, hogy védekeznünk kellene, én nem szeretnék defenzívába kerülni, csak azt tessék végiggondolni, hogy az, amit Karácsony képviselő úr mond, az mondjuk igaz lehet-e az ügyészségre?",
+    "hypothesis": "L. SImon László szerint védekezniük kellene."
+  },
+  {
+    "id": "217",
+    "premise": "P. Á.: - Ukrán partnere nem találja olyan veszélyesnek, ha 5 év múlva ukránul fognak itt tanulni az iskolában, hiszen a magyar nyelv oktatását és irodalom oktatását nem szüntetik meg. Gémesi Ferenc: - Elsősorban bizalmi kérdésről van most szó. Elhiszi -e a magyar közösség Kárpátalján, hogy még 10 év múlva, 20 év múlva, 30 év múlva is érdemes lesz magyar nyelvi oktatási intézménybe járni vagy nem hiszi el?",
+    "hypothesis": "A beszélő szerint még 10 év múlva, 20 év múlva, 30 év múlva is érdemes lesz magyar nyelvi oktatási intézménybe járni."
+  },
+  {
+    "id": "218",
+    "premise": "Telefonáló: - Azt szeretném megkérdezni, hogy a kisfiammal voltunk a Heim Pál Kórházban hallásvizsgálaton és azt állapították meg, hogy harminc százalékkal kevesebbet hall, és az orrmanduláját ki kellene venni, csak közben beteg lett és nem tudtam műtétre vinni, de szeretném én még máshol is megnézetni. Riporter: - Mert nem bízik abban, hogy ez helytálló?",
+    "hypothesis": "A beszélő szerint a tárgyalt dolog helytálló."
+  },
+  {
+    "id": "219",
+    "premise": "Márk: - Lehet valami mondjuk, lehet, hogy zenészek leszünk nagykorunkra. Viszont, hogyha elkezdünk beszélni ilyen nem tudom ilyen ruhákról, vagy smink, vagy új cipő, az. Riporter: - Rólad azt nem feltételezem, hogy a sminkről beszélnél?",
+    "hypothesis": "A Riporter szerint a riportalany a sminkről beszél."
+  },
+  {
+    "id": "220",
+    "premise": "A kormány rájött, hogy ez nem valami előnyös és ezáltal ez a csoport is elszigetelődik a társadalomban és most nagyon sok ilyen projekt van, hogy pár évig ezek a háziasszonyok valóban, vagy maguk a férjek is nyelvleckéket kapnak. Tehát ezt az állam finanszírozza. P. Kiss Zsuzsa.: - Hogy lehet boldogulni egy országban, hogy lehet akár évtizedeket leélni úgy, hogy nem beszéli valaki a nyelvet? Mondjuk itt mindenki beszél angolul, de nem feltételezem, hogy a marokkói háziasszony angolul diskurálna.",
+    "hypothesis": "P. Kiss Zsuzsa szerint a marokkói háziasszony beszél angolul."
+  },
+  {
+    "id": "221",
+    "premise": "TZ.: - Ez egyébként ez egy nagyon új hír, tehát ez a Hír Televízió adta le ezen a héten, ezt egyébként MSZP-n belüli forrásokra hivatkoznak, de nincsen megjelölve, szóval azt azért fenntartásokkal kell kezelni ezt a hírt, lényegében ez arról szól ez a hír, hogy az MSZP frakcióján belül már most többségben vannak a Gyurcsány hívei, ezáltal egyfajta visszatérés lehetősége.. Műsorvezető: - Visszatérés, úgy érti, hogy a párt élére?",
+    "hypothesis": "A műsorvezető szerint Gyurcsány Ferenc visszatér az MSZP élére."
+  },
+  {
+    "id": "222",
+    "premise": "Eszterházy Péter író: - Ugye a bazár az jó, de a bazárt azt ismerjük, azt ismerhetjük Törökországból, de az is... Sírik Zsuzsa: - Nem kiábrándító, hogy a szent sírhoz vezető úton végig bazár van? Eszterházy Péter író: - Nem, hát erre vonatkozóan is van az írásban passzus, tehát a, de épp ezt mondom, hogy nem, nem tudja lefedni, ez olyan, mint nem tudom Velencébe sehol másutt, de Velencébe nem zavar, hogy olyan sokan vannak, s itt is annyival erősebb ez a dolog, hogy semmi, semmi talmi nem, nem zavar benne, semmi!",
+    "hypothesis": "Eszterházy Péter szerint Velencében nagyon sokan vannak."
+  },
+  {
+    "id": "223",
+    "premise": "Andrea: - Esetleg valamilyen szinten, de szerintem általában kettőnk között maradnak a dolgok. Riporter: - Téged nem zavar, hogy az apukádnak van egy barátnője?",
+    "hypothesis": "A Riporter szerint Andrea apukájának van egy barátnője."
+  },
+  {
+    "id": "224",
+    "premise": "Szerintem mindenkinek kell venni jegyet. Lassítja a felszállást, de így legalább nem tudnak bliccelni. Engem nem zavar, hogy itt ellenőriznek.",
+    "hypothesis": "A beszélő szerint itt ellenőriznek."
+  },
+  {
+    "id": "225",
+    "premise": "Riporter: - Szembetűnő az, hogy itt a kolozsvári magyar szerkesztőséget még csak nem is magyar, hanem kisebbségi szerkesztőségként jegyzik. Bardócz Sándor, főszerkesztő. Bardócz Sándor: - Ez engem nem zavar, hogy nemzetiségi szerkesztőségként határoznak meg.",
+    "hypothesis": "Bardócz Sándor szerint nemzetiségi szerkesztőségként határozzák meg."
+  },
+  {
+    "id": "226",
+    "premise": "Riporter - Arra emlékeztet, mert már próbáltad? Erika: - A börtönt még nem. Nem tudom, szóval itt vagyunk többen, jó az nem zavar, hogy többen vagyunk, mert hétvégén egyedül voltam, és az rosszabb volt, de hogy itt vagyunk és akkor igazából jó kimehetünk, de szólni kell, hogy hova megyünk, legalábbis én szoktam, mert figyelmeztettek rá, hogy szóljak, meg úgy nem tudom, olyan bezártságérzete van az embernek.",
+    "hypothesis": "A beszélő szerint többen vannak."
+  },
+  {
+    "id": "227",
+    "premise": "Hát szlovákul, vágja rá a legnagyobb természetességgel. A nagyszülők ugyan magyarok, de tudnak szlovákul, teszi hozzá. És milyen emberek szerinted a magyarok? Jók, hangzik a tömör és egyszerű válasz. És téged nem zavar, hogy nem érted őket? - kérdeztem tovább.",
+    "hypothesis": "A kérdező szerint a riport alanya nem érti a magyarokat."
+  },
+  {
+    "id": "228",
+    "premise": "Riporter: - Arról beszéltünk idáig, hogy milyen nehézségek voltak az iskolában, milyen nehézségek voltak otthon? Ön például hogy viseli, Niki hiperaktivitását? Marianna: - Nekem a hiperaktivitás okoz kisebb problémát, a figyelemzavar és az ennek elfogadása az nagyon nagyot, az engem nem zavar, hogy ő mozgékony, sportol, mozog, rendben van, az, hogy nem hallja meg, amit kérek tőle, az nagyon, és a Niki esetében ez a figyelemzavar az, ami nagyon-nagyon erős.",
+    "hypothesis": "A beszélő szerint Niki mozgékony, sportol, mozog."
+  },
+  {
+    "id": "229",
+    "premise": "Márk: - Az történt, hogy ott nevelkedtem és hétvégeken több olyan lány volt, aki megkért, hogy menjek el vele, ugyanis minden hétvégén elmehettünk kimenőre, és elmentem két-három lánnyal, és azzal találkoztam, hogy a családjukból vagy az édesanya, vagy az édesapa alkoholfüggőségben volt, és maga a körülmények, ahol laktak ez a mai napig meg van és időnként, ha nem is akarok rá emlékezni, de eszembe jut. 18 éves koromat elérve, kikerültem az intézetből és elkerültem egy olyan helyre, ahol szintén találkoztam az alkohollal és ezt úgy gondolom, hogy akárhova kerültem és akár milyen körülmények közé, egyszerűen nem tudtam nem észrevenni és szinte ott volt jelen mindig előttem. Sokáig nem tudtam, hogy az én édesapám is alkoholista, és hogy szintén családi problémák miatt kerültem ilyen helyre.",
+    "hypothesis": "A beszélő szerint az édesapja alkoholista."
+  },
+  {
+    "id": "230",
+    "premise": "Most azonban itt az ideje, ugyanis éppen ma délután van személyes találkozási lehetőség a Magdolna utcában. Kiss Bea riportja következik. Vivien: - Az első gyerekemmel voltam fűhasználó és extasy-használó, másfél hónapig, amíg meg nem tudtam, hogy terhes vagyok, utána kezdett el foglalkoztatni a dolog tényleg, hogy mit nem tudnak erről semmit, miért nem lehet információkhoz jutni.",
+    "hypothesis": "A beszélő szerint terhes volt."
+  },
+  {
+    "id": "231",
+    "premise": "Kinyitottam a lift ajtót, mert lábbal rúgtam ki, mert, hogyha ott áll valaki, akkor a kezem szabadon legyen és akkor egy megdöbbentő látvány tárult a szemem elé. Mintha vér folyt volna, mert piros festék. Először azt hittem, hogy valakit megöltek a falon a lépcsőházban folyt végig, és hát borzasztóan nézett ki az egész. Később írta is, hogy ilyen lesz a kifolyt véretek. Kint állt az elkövető és akkor mi akiről én még nem tudtam, hogy ő az és mondtam neki, hogy hát ez szörnyű, hát gyorsan segítsen, hogy én felmossam és hozzon meleg vizet, mert gyerekek is vannak és ha ezek meglátják a saját gyereke is, akkor ez egy életre kiható élmény lesz számukra amit jobb, hogyha elkerül.",
+    "hypothesis": "A beszélő szerint aki kint állt, az az elkövető."
+  },
+  {
+    "id": "232",
+    "premise": "Riporter: - Ez egy bejegyzett szakma tulajdonképpen? Pál: - Hát igazából nem, mindenki csinálja, ehhez régen kellett táncvizsga meg ilyen működési engedély, ami nekem van, de hát olyan link, link alakok csinálják mostanában is sokan, és ilyen potom pénzért, hogy tehát ebből megélni nem lehetne, s így rongálják is sajnos az előadással is, meg hát nyomják le az árakat, és maguk alatt is vágják a fát, tehát ezt csak ilyen hóbortnak tekintik, vagy... Riporter: - Nem mond nekem újságot azzal, hogy hígult a világ, csak nem tudtam, hogy a Chippendel szakma is hígul!",
+    "hypothesis": "A Riporter szerint a Chippendale szakma is hígul."
+  },
+  {
+    "id": "233",
+    "premise": "Risztov Éva: - Remélem, és nekem ez itt, ez itt a nyugalom szigete. Riporter: Hogy-hogy ilyen hamar hazaértél? Risztov Éva: - Mert tudtam azt, hogy a Debrecen város vezetése meglátogat, de azt nem tudtam, hogy egy hatalmas meglepetéssel szolgálnak, hogy édesanyámat is kihozták az olimpiára, és amikor tegnap előtt álltam a falu bejáratánál, és néztem az ajtót, akkor vártam, hogy jöjjön a vezetés, és akkor az én anyukám.",
+    "hypothesis": "Risztov Éva szerint Debrecen város vezetése egy hatalmas meglepetéssel szolgált."
+  },
+  {
+    "id": "234",
+    "premise": "Váradi Gábor: Én tudtam, hogy előbb vagy utóbb találkozni fogok vele, ő '48-as születésű, oroszlán, augusztus hónapban született, és képzeld el, hogy volt még akkor a Magyar Ifjúság, emlékszel még arra az újságra? Műsorvezető: Hogyne emlékeznék. Váradi Gábor: - Hát én annak rendszeres olvasója voltam, Péri Tamás rajzokat találtam benne, de én akkor nem tudtam, hogy ő cigány, én csak annyit láttam, hogy szép kentaurok, sasok és egy olyan dolgot fedeztem fel benne, ami mégis árulkodott, hogy ez az ember valahol én hozzám közel áll, pedig én nem tudtam róla, mikor később megtudtam, hogy cigány, akkor már én is felnőtt fejjel, és akkor találkoztunk '89-ben.",
+    "hypothesis": "Váradi Gábor szerint Péri Tamás cigány."
+  },
+  {
+    "id": "235",
+    "premise": "Szalay Ádám: - Nem mondanám. Kedden volt a Köln elleni mérkőzésünk, ahol igazából egyik életem legjobb teljesítményét nyújtottam a pályán és mégsem sikerült a góllövés, hiszen tényleg megfogott mindent a kapus, vagy mellé ment centikkel, úgyhogy azt tudom mondani, hogy jelen pillanatban ez így is fog maradni, hogy a csapat érdekében próbálok mindenki maximumot kihozni magamból és a teljesítményem ami a legfontosabb. Ilyen pillanatok meg történni fognak, amikor talán nem megy annyira jól a játék és mégis betalál az ember Riporter: - Azt tudtad, hogy Egervári Sándor szövetségi kapitány ott ül a lelátón?",
+    "hypothesis": "A Riporter szerint Egervári Sándor szövetségi kapitány ott ült a lelátón."
+  },
+  {
+    "id": "236",
+    "premise": "Jakabos Zsuzsanna: - Nem, egyéni legjobbamat úsztam, nagyon. Közben azt hiszem, hogy nem fog utolérni, vagyis hát reménykedtem, de aztán utolért sajnos, ez van. Riporter: - Tudtad, hogy Katka lesz a legnagyobb ellenfeled?",
+    "hypothesis": "A Riporter szerint Jakabos Zsuzsa legnagyobb ellenfele Katka."
+  },
+  {
+    "id": "237",
+    "premise": "István: - Igen. És ezek a legfontosabbak, mert különben felbomlik, és akkor így lehet hajléktalan lenni. Riporter: - És tudtad, hogy ezeknek egy része hiányzik a hajléktalanoknál, illetve hát nagy része?",
+    "hypothesis": "A Riporter szerint ennek egy része hiányzik a hajléktalanoknál."
+  },
+  {
+    "id": "238",
+    "premise": "Mária: - Pár hónapos korában, úgyhogy még az inkubátorban már műtötték a szemét, a balszemét, amelyik elsorvadt, utána 16 hónaposan műtötték a jobb szemét, ahol a retina az utolsó öt percben levált és átfedéssel került vissza és mondták, hogy nagyon imádkozzak, hogy helyreigazítani lehessen, az sem segített. Riporter: - Te tudtad, hogy egy vak gyereket hozol ki a kórházból?",
+    "hypothesis": "A Riporter szerint a riportalany egy vak gyereket hozott ki a kórházból."
+  },
+  {
+    "id": "239",
+    "premise": "Sors Tamás: - Az első ötvenen nagyon jól éreztem magam, aztán a fordulót is. Igazából nem is tudok tisztán visszagondolni rá, de nagyon jó volt minden. Éreztem, hogy jó lesz. Riporter: - Amikor becsaptál a célba, akkor tudtad, hogy első vagy?",
+    "hypothesis": "A Riporter szerint Sors Tamás volt az első."
+  },
+  {
+    "id": "240",
+    "premise": "Banner Géza: A kínai-magyar iskola, illetve magyar Van Budapesten 2004 óta egy általános iskola, ahol kínaiakat tanítanak magyarra, és magyar anyanyelvűeket kínaira. Szeretik, élvezik, megtudjuk, miért. Műsorvezető: - Tudtad, hogy kínai autósiskola is van már Budapesten?",
+    "hypothesis": "A műsorvezető szerint Budapesten kínai autósiskola is van már."
+  },
+  {
+    "id": "241",
+    "premise": "Riporter: - Jött volna éjszakai műszakra? Krisztián: - Igen. Riporter: - Pedig tudta, hogy tűz van?",
+    "hypothesis": "A Riporter szerint tűz volt."
+  },
+  {
+    "id": "242",
+    "premise": "Meglepődve hallom ezt a dolgot, mert ilyen nálunk nincsen. Tehát én sem ilyen szerződés, sem ilyen nyilatkozatot nem írtam alá, és nem töltöttem ki, hogy én ilyen szolgáltatást bármikor is nyújtanék az üdülési csekkeseknek. Riporter: - Azt tudta, hogy ez a hirdetés, vagy ez az ajánlat kint van az interneten, és bárki számára egy pillanat alatt elérhető?",
+    "hypothesis": "A Riporter szerint az ajánlat kint van az interneten és bárki számára egy pillanat alatt elérhető."
+  },
+  {
+    "id": "243",
+    "premise": "Gergely Mariann: - Kölcsön adták a kiállításra, nagy örömmel. Sajnos a katalógusba nem tudott már bekerülni, hiszen akkor már a katalógus megjelent, úgyhogy ez a szenzációja ennek a képnek, hogy a katalóguson kívül, csak most itt a Nemzeti Galériában lehet megtekinteni. Riporter: - És például ez a család nem tudta, hogy egyébként a Nemzeti Galériában lesz ez a kiállítás, és nem jelentkeztek előbb?",
+    "hypothesis": "A Riporter szerint a Nemzeti Galériában lesz az a kiállítás."
+  },
+  {
+    "id": "244",
+    "premise": "Anab.: - Óvodában. Egyszer volt bölcsődében, utána óvodában volt. Kovács Gabriella: - S tudta, hogy kislánya lesz?",
+    "hypothesis": "Kovács Gabriella szerint Anabnak kislánya lett."
+  },
+  {
+    "id": "245",
+    "premise": "Roland: - Igen. Volt egy másik utca ott fenn, ott kovács műhelyek voltak. Riporter: - Mindig megtartotta a régi bútorokat. Mindig tudta, hogy ez érték?",
+    "hypothesis": "A Riporter szerint a régi bútor érték."
+  },
+  {
+    "id": "246",
+    "premise": "Dóra: - Az erőszakoskodóról kiderült, hogy az egyik fürdető diák hozzátartozója. A rendőrség őrizetbe vette, közfeladatot ellátó személy elleni erőszak bűntette miatt indítottak eljárást ellene. Diós Judit: - Tudta, hogy a magyar lakosság 60 százaléka túlsúlyos, de százból csak kilencen sportolnak rendszeresen?",
+    "hypothesis": "Diós Judit szerint a magyar lakosság 60 százaléka túlsúlyos, de százból csak kilencen sportolnak rendszeresen."
+  },
+  {
+    "id": "247",
+    "premise": "Pál: - Talán jobb is lenne, ha játszótér helyett kondiparkot vagy rehabilitációs parkot mondanánk, az öregek ugyanis még csak barátkoznak ezekkel az eszközökkel. Talán szégyellik is azt, hogy játszótérre menjenek. Ditrói Zoltán azért idecsábított néhány embert. Ditrói Zoltán: - Tudta, hogy ez a szomszéd játszótér az időseknek van?",
+    "hypothesis": "Ditrói Zoltán szerint a szomszéd játszótér az időseknek van."
+  },
+  {
+    "id": "248",
+    "premise": "Rozália: - Igen, a vatikáni rádió fogja közvetíteni, azt nem tudom még egyenlőre, hogy élőben, vagy pedig esetleg felvételről sugározza, felveszik az egész koncertet és engedélyt kaptunk a pápai tanácstól, hogy ebből CD-t készíthetünk. Ez óriási dolog. Riporter: - Azt tudta, hogy ez a Bazilika Róma egyik legrégebbi temploma?",
+    "hypothesis": "A Riporter szerint az a Bazilika Róma egyik legrégebbi temploma."
+  },
+  {
+    "id": "249",
+    "premise": "Nő.: - Azt nem tudom, hogy milyen, mert csak úgy betévedtünk. Riporter: - Roma festőnők kiállítása nyílt most itt. Tudta, hogy vannak roma festőnők?",
+    "hypothesis": "A Riporter szerint vannak roma festőnők."
+  }
+]
