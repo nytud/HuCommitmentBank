@@ -14,7 +14,7 @@ An example:
 ```
 {
   "id": "0",
-  "premise": "Ha ezt nem erted akkor teljesen felesleges minden vita.    hogy a valóban meggyőző érveid dacára mégiscsak volt a világban egy olyan kísérlet,kedves Derek, - csak hát az itt a bökkenő, Nagy igazságokat írsz a szocdem mozgalomról, amelyben párszázmillióan vettek részt, és amely kísérlet eredménye közismert ugye. Lehet, hogy neked ez nem tetszik, de képzeld, lehet, hogy nekem se tetszik), de volt.",
+  "premise": "Ha ezt nem erted akkor teljesen felesleges minden vita. hogy a valóban meggyőző érveid dacára mégiscsak volt a világban egy olyan kísérlet,kedves Derek, - csak hát az itt a bökkenő, Nagy igazságokat írsz a szocdem mozgalomról, amelyben párszázmillióan vettek részt, és amely kísérlet eredménye közismert ugye. Lehet, hogy neked ez nem tetszik, de képzeld, lehet, hogy nekem se tetszik), de volt.",
   "hypothesis": "A beszélő szerint nem tetszik neki sem.",
   "label": "entailment"
 }
