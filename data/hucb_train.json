@@ -98,7 +98,7 @@
  {
   "id": "16",
   "premise": "Juhász Zsolt: - És erre nemcsak Böszörményi Gergely és a családi indíttatása a garancia, hanem hogyha nézegetem a programot akkor itt a Vujicsics a Mistrál is fellép, Berecz Andrást is lehet hallani. sőt kerekasztal beszélgetés keretébern Bogár László közgazdász professzorral is érdekes beszélgetés ígérkezik majd vasárnap. Böszörményi Gergely: - Erre külön is szeretnék reflektálni. Ugye hát azt ne felejtsük el hogy június 7-én lesz az európai parlamenti választás, hét órakor lezárják az urnákat, és Bogár László a Károlyi Gáspár református egyetem professzorával lesz egy beszélgetés mint ahogy tavaly is volt.",
-  "hypothesis": "Juhász Zsolt szerint június 7-én lesz az európai parlamentailmenti választás, hét órakor lezárják az urnákat, és Bognár László a Károlyi Gáspár református egyetem professzorával lesz egy beszélgetés, mint ahogy tavaly is volt.",
+  "hypothesis": "Juhász Zsolt szerint június 7-én lesz az európai parlamenti választás, hét órakor lezárják az urnákat, és Bognár László a Károlyi Gáspár református egyetem professzorával lesz egy beszélgetés, mint ahogy tavaly is volt.",
   "label": "entailment"
  },
  {
@@ -122,7 +122,7 @@
  {
   "id": "20",
   "premise": "Ha minden második családban még egy gyerek születne akkor tudnánk az öregedést leállítani. Nem szaporodna a népesség, csak éppen leállna az elöregedési folyamat, ami megmenthetné a nyugdíjrendszert az egészségügyet úgy ahogy van. másrészt ne felejtsük el hogy a gyermekes családok a belföldi vállalkozások piacát jelentik.",
-  "hypothesis": "A beszélő szerint a gyermekes családok a belföldi vállalkozások piacát jelentailmentik.",
+  "hypothesis": "A beszélő szerint a gyermekes családok a belföldi vállalkozások piacát jelentik.",
   "label": "entailment"
  },
  {
@@ -164,7 +164,7 @@
  {
   "id": "27",
   "premise": "Zentai Péter: - A világ bármely nagyvárosába vetődünk is el, feltűnhet bármelyikünknek hogy a tömegközlekedési eszközök miközben végzik feladatukat tudniillik közlekedtetik a tömegeket, egyúttal reklám hordozók. Az idősebb hallgatók talán emlékeznek rá hogy nálunk az elvileg üzlet ellenes előző rendszerben is folytatták e téren azt amit az azt megelőző elvileg üzletbarát rendszerben találtak ki. Hogy a villamosokon az ablakok fölé tapétázott kis plakátokkal reklám üzenetekkel kötötték le az utasok figyelmét. A hatvanas években főként színházi eseményeket és más kulturális dolgokat hirdettek a közlekedési eszközökön, de sosem felejtem el hogy hat éves koromban a 6-os villamos plakátocskái szinte eredményesebben járultak hozzá szellemi gyarapodásomhoz mint az iskola.",
-  "hypothesis": "Zentailmentai Péter szerint hat éves koromban a 6-os villamos plakátocskái szinte eredményesebben járultak hozzá szellemi gyarapodásomhoz, mint az iskola.",
+  "hypothesis": "Zentai Péter szerint hat éves koromban a 6-os villamos plakátocskái szinte eredményesebben járultak hozzá szellemi gyarapodásomhoz, mint az iskola.",
   "label": "entailment"
  },
  {
@@ -290,7 +290,7 @@
  {
   "id": "48",
   "premise": "Lapértesülés szerint hárman pályáznak az egészségbiztosítói főigazgatói posztjára. Azután kell új vezetőt kineveznie a kormányfőnek, hogy az előző főigazgató, Székely Tamás egészségügyi miniszter lett. A Népszava úgy tudja, hogy Ungár Klára, a biztosító főigazgató-helyettese, László Imre, a Szent Imre Kórház főigazgatója és Gusztonyi Ágnes, az Országos Idegsebészeti Tudományos Intézet vezetője pályáznak a posztra.",
-  "hypothesis": "A beszélő szerint Ungár Klára, a biztosító főigazgató-helyettese, László Imre, a Szentailment Imre Kórház főigazgatója és Gusztonyi Ágnes, az Országos Idegsebészeti Tudományos Intézet vezetője pályáznak a posztra.",
+  "hypothesis": "A beszélő szerint Ungár Klára, a biztosító főigazgató-helyettese, László Imre, a Szent Imre Kórház főigazgatója és Gusztonyi Ágnes, az Országos Idegsebészeti Tudományos Intézet vezetője pályáznak a posztra.",
   "label": "neutral"
  },
  {
@@ -314,7 +314,7 @@
  {
   "id": "52",
   "premise": "A Munka Törvénykönyvével kapcsolatos valamennyi szakszervezeti javaslatot a parlament elé terjesztik az MSZP. A szocialisták reagáltak arra a fideszes javaslatra is, amely nyomott árfolyamon tenné lehetővé a devizahitelek végtörlesztését. Burány Sándor úgy tudja, ez nem jelent érdemi megoldást az adósok problémáira.",
-  "hypothesis": "A beszélő szerint a fideszes javaslat nem jelentailment érdemi megoldást az adósok problémáira.",
+  "hypothesis": "A beszélő szerint a fideszes javaslat nem jelent érdemi megoldást az adósok problémáira.",
   "label": "neutral"
  },
  {
@@ -410,7 +410,7 @@
  {
   "id": "68",
   "premise": "Műsorvezető: - Még akkor sem, ha azt mondjuk, hogy megosztottság ide vagy oda, politikai gyűlölködés ide vagy oda, alapelvekben, demokratikus alapelvekben egy jogállam - már bocsánat, hogy ezt a szót használom, bár Ön szerint ez rosszul van az alkotmányban, illetve hogy nem jelent semmit, vagy nem azt jelenti... Szentpéteri-Nagy Richárd, a Méltányosabb Politika Nemzetközpont munkatársa: - Tehát hogy pontatlanul van... Műsorvezető: -... igen, tehát hogy ebben... jelző kérdésekben meg lehetett volna állapodni, nem hiszem, hogy egyik párt abban különbözne a másiktól, hogy demokratikus alapjogokat akar sérteni, vagy nem akar védeni!",
-  "hypothesis": "Szentailmentpéteri-Nagy Richárd szerint egyik párt abban különbözik a másiktól, hogy demokratikus alapjogokat akar sérteni, vagy nem akar védeni.",
+  "hypothesis": "Szentpéteri-Nagy Richárd szerint egyik párt abban különbözik a másiktól, hogy demokratikus alapjogokat akar sérteni, vagy nem akar védeni.",
   "label": "contradiction"
  },
  {
@@ -896,7 +896,7 @@
  {
   "id": "149",
   "premise": "Gabriella: - A világ ember nélkül. Egy csodálatos fotóalbum a National Geographic kiadásában. Egyed László: - Nagyon sok oka lehet annak, ha az ember nem tesz feljelentést egy ellene elkövetett bűncselekmény miatt. Lehet ez félelem, szégyen, vagy az hogy valaki nem bízik abban, hogy bármi féle eredménye lesz a feljelentésnek, vagy megkerül a bűnös.",
-  "hypothesis": "A beszélő szerint lesz eredménye a feljelentailmentésnek.",
+  "hypothesis": "A beszélő szerint lesz eredménye a feljelentésnek.",
   "label": "neutral"
  },
  {
