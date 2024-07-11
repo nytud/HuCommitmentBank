@@ -1,5 +1,5 @@
 # HuCommitmentBank
-HuCommitmentBank is a corpus of naturally occurring discourses whose final sentence contains a clause-embedding predicate under an entailment canceling operator. This dataset is also part of the Hungarian Language Understanding Evaluation Benchmark Kit [HuLU](hulu.nytud.hu). 
+HuCommitmentBank is a corpus of naturally occurring discourses whose final sentence contains a clause-embedding predicate under an entailment canceling operator. This dataset is also part of the Hungarian Language Understanding Evaluation Benchmark Kit [HuLU](https://hulu.nytud.hu/). 
 
 It was designed based on the CommitmentBank Corpus (de Marneffe et al., 2019). The data collection and annotation process was done in the master thesis of Péter Hatvani (_A Corpus to Investigate Projection Methods: The Hungarian Commitment Bank_. Szakdolgozat, Pázmány Péter Katolikus Egyetem, Bölcsészet- és Társadalomtudományi Kar, Angol-Amerikai Intézet, Elméleti Nyelvészet Tanszék). 4 annotators collected a total of 1100 valid text fragments from MNSZ2 (Oravecz et al., 2014). The 1100 examples were labelled by 5-5 annotators on a 7-point Likert scale (from -3 to 3, where 0 meant that the speaker could not decide whether the speaker thinks the subordinate clause to be true or false). A total of 9 native Hungarian annotators worked on the corpus. 
 
@@ -35,7 +35,7 @@ An example:
 The data is distributed in three splits: training set (250), development set (103) and test set (250). Only instances of Hatvani's dataset with standard deviation < 1 are included in HuLU.
 
 The test set is distributed without labels.
-To evaluate your model, please [contact us](mailto:ligeti-nagy.noemi@nytud.hu), or check [HuLU's website](hulu.nytud.hu) for an automatic evaluation. 
+To evaluate your model, please [contact us](mailto:ligeti-nagy.noemi@nytud.hu), or check [HuLU's website](https://hulu.nytud.hu/) for an automatic evaluation. 
 ### Licensing Information
 
 HuCommitmentBank is released under the CC-BY-SA-4.0 License.
